@@ -1,0 +1,748 @@
+{
+   "audioDeviceName" : "FL Studio ASIO",
+   "audioFilesPath" : "C:\\Users\\solpa\\Documents\\GitHub\\CART398Final\\osc-audiostellar\\pho-samples/",
+   "global" : {
+      "BPM" : 54,
+      "cam_scale" : 1.025450944900513,
+      "cam_translation_x" : 219.5916137695313,
+      "cam_translation_y" : 117.7338485717773,
+      "masterVolume" : 0
+   },
+   "midiMapping" : [],
+   "oscMapping" : [],
+   "sounds" : {
+      "DBScan_EPS" : 30,
+      "DBScan_minPts" : 10,
+      "clusterNames" : [
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "muted" : [],
+      "overridedPositions" : [],
+      "useOriginalClusters" : false
+   },
+   "tsv" : "39.90041,-11.834662,0,0,guitar/guitar_A2_very-long_forte_normal.mp3|39.433422,-12.040533,0,0,guitar/guitar_A2_very-long_piano_normal.mp3|40.329216,-9.275964,0,0,guitar/guitar_A3_very-long_forte_harmonics.mp3|39.217285,-17.045202,0,0,guitar/guitar_A3_very-long_forte_normal.mp3|39.457848,-13.526426,0,0,guitar/guitar_A3_very-long_pianissimo_harmonics.mp3|39.337204,-14.532688,0,0,guitar/guitar_A3_very-long_piano_harmonics.mp3|38.735855,-10.091033,0,0,guitar/guitar_A3_very-long_piano_normal.mp3|41.653606,-9.404666,0,0,guitar/guitar_A4_very-long_forte_harmonics.mp3|41.532642,-8.960319,0,0,guitar/guitar_A4_very-long_forte_normal.mp3|39.580166,-14.9971075,0,0,guitar/guitar_A4_very-long_piano_harmonics.mp3|41.64089,-9.259004,0,0,guitar/guitar_A4_very-long_piano_normal.mp3|35.93626,-10.303129,0,0,guitar/guitar_As2_very-long_forte_normal.mp3|36.087605,-11.940079,0,0,guitar/guitar_As2_very-long_piano_normal.mp3|35.463634,-12.309565,0,0,guitar/guitar_As3_very-long_forte_normal.mp3|36.376083,-11.111187,0,0,guitar/guitar_As3_very-long_piano_normal.mp3|38.224197,-17.512632,0,0,guitar/guitar_As4_very-long_forte_normal.mp3|29.235296,-23.037254,0,0,guitar/guitar_As4_very-long_piano_normal.mp3|38.295338,-28.123322,0,0,guitar/guitar_B2_very-long_forte_normal.mp3|35.8544,-20.88314,0,0,guitar/guitar_B2_very-long_piano_normal.mp3|37.418335,-27.394081,0,0,guitar/guitar_B3_very-long_forte_normal.mp3|37.771984,-26.401743,0,0,guitar/guitar_B3_very-long_piano_harmonics.mp3|37.614407,-26.824636,0,0,guitar/guitar_B3_very-long_piano_normal.mp3|40.230267,-23.76537,0,0,guitar/guitar_B4_very-long_forte_harmonics.mp3|40.423,-24.462732,0,0,guitar/guitar_B4_very-long_forte_normal.mp3|38.00969,-16.596605,0,0,guitar/guitar_B4_very-long_pianissimo_harmonics.mp3|40.325317,-24.15802,0,0,guitar/guitar_B4_very-long_piano_normal.mp3|37.43301,-15.166957,0,0,guitar/guitar_B5_very-long_forte_harmonics.mp3|39.339813,-17.783016,0,0,guitar/guitar_B5_very-long_piano_harmonics.mp3|37.101696,-22.630152,0,0,guitar/guitar_C3_very-long_forte_normal.mp3|36.993267,-21.820019,0,0,guitar/guitar_C3_very-long_piano_normal.mp3|38.37819,-21.4264,0,0,guitar/guitar_C4_very-long_forte_normal.mp3|38.444828,-20.25537,0,0,guitar/guitar_C4_very-long_piano_harmonics.mp3|38.41793,-19.639378,0,0,guitar/guitar_C5_very-long_piano_harmonics.mp3|37.353123,-19.352938,0,0,guitar/guitar_C6_very-long_piano_normal.mp3|34.698627,-23.43009,0,0,guitar/guitar_Cs3_very-long_forte_normal.mp3|35.593266,-22.706896,0,0,guitar/guitar_Cs3_very-long_piano_normal.mp3|36.439598,-16.514624,0,0,guitar/guitar_Cs4_very-long_forte_normal.mp3|42.2495,-8.090022,0,0,guitar/guitar_D3_very-long_forte_normal.mp3|41.00209,-21.217827,0,0,guitar/guitar_D3_very-long_piano_normal.mp3|43.827034,-21.867844,0,0,guitar/guitar_D4_very-long_forte_harmonics.mp3|44.724678,-22.063576,0,0,guitar/guitar_D4_very-long_forte_normal.mp3|40.54607,-20.566517,0,0,guitar/guitar_D4_very-long_pianissimo_harmonics.mp3|44.089333,-21.929039,0,0,guitar/guitar_D4_very-long_piano_normal.mp3|41.812603,-19.32693,0,0,guitar/guitar_D5_very-long_forte_harmonics.mp3|38.090412,-17.841162,0,0,guitar/guitar_D5_very-long_forte_normal.mp3|39.431168,-18.291832,0,0,guitar/guitar_D5_very-long_piano_harmonics.mp3|42.37218,-19.55218,0,0,guitar/guitar_D5_very-long_piano_normal.mp3|32.37072,-14.667275,0,0,guitar/guitar_Ds3_very-long_forte_normal.mp3|34.452007,-15.393849,0,0,guitar/guitar_Ds3_very-long_piano_normal.mp3|31.851952,-13.009019,0,0,guitar/guitar_Ds4_very-long_forte_normal.mp3|34.703037,-16.112936,0,0,guitar/guitar_Ds4_very-long_piano_harmonics.mp3|31.879356,-13.078351,0,0,guitar/guitar_Ds4_very-long_piano_normal.mp3|36.085804,-18.333532,0,0,guitar/guitar_Ds5_very-long_forte_normal.mp3|36.513115,-18.182371,0,0,guitar/guitar_Ds5_very-long_piano_normal.mp3|37.072365,-27.466255,0,0,guitar/guitar_E2_very-long_forte_normal.mp3|43.503445,-15.308276,0,0,guitar/guitar_E2_very-long_piano_normal.mp3|45.99375,-12.315388,0,0,guitar/guitar_E3_very-long_forte_harmonics.mp3|46.137627,-12.301941,0,0,guitar/guitar_E3_very-long_forte_normal.mp3|42.26535,-14.490534,0,0,guitar/guitar_E3_very-long_pianissimo_harmonics.mp3|43.002254,-15.354221,0,0,guitar/guitar_E3_very-long_piano_normal.mp3|43.39325,-12.992392,0,0,guitar/guitar_E4_very-long_forte_harmonics.mp3|44.743595,-12.391597,0,0,guitar/guitar_E4_very-long_forte_normal.mp3|42.310005,-13.837377,0,0,guitar/guitar_E4_very-long_piano_harmonics.mp3|44.64937,-12.45326,0,0,guitar/guitar_E4_very-long_piano_normal.mp3|38.21307,-15.500323,0,0,guitar/guitar_E5_very-long_forte_harmonics.mp3|41.186653,-16.232658,0,0,guitar/guitar_E5_very-long_forte_normal.mp3|39.086853,-16.599081,0,0,guitar/guitar_E5_very-long_pianissimo_harmonics.mp3|40.363335,-18.962097,0,0,guitar/guitar_E5_very-long_piano_harmonics.mp3|40.71868,-16.31942,0,0,guitar/guitar_E5_very-long_piano_normal.mp3|37.13907,-14.526844,0,0,guitar/guitar_E6_very-long_forte_harmonics.mp3|38.75018,-18.392767,0,0,guitar/guitar_E6_very-long_piano_harmonics.mp3|46.25982,-16.34254,0,0,guitar/guitar_F2_very-long_forte_normal.mp3|45.320206,-17.46429,0,0,guitar/guitar_F2_very-long_piano_normal.mp3|45.638477,-18.220058,0,0,guitar/guitar_F3_very-long_forte_normal.mp3|44.687748,-17.552242,0,0,guitar/guitar_F3_very-long_piano_normal.mp3|48.643723,-19.15887,0,0,guitar/guitar_F4_very-long_forte_normal.mp3|43.78819,-17.728516,0,0,guitar/guitar_F4_very-long_piano_harmonics.mp3|48.628284,-19.15228,0,0,guitar/guitar_F4_very-long_piano_normal.mp3|31.841434,-19.423845,0,0,guitar/guitar_Fs2_very-long_forte_normal.mp3|32.465927,-19.389446,0,0,guitar/guitar_Fs2_very-long_piano_normal.mp3|40.35663,-30.276033,0,0,guitar/guitar_Fs3_very-long_forte_normal.mp3|34.145794,-19.500364,0,0,guitar/guitar_Fs3_very-long_piano_normal.mp3|40.16182,-30.496166,0,0,guitar/guitar_Fs4_very-long_forte_normal.mp3|34.565952,-19.546177,0,0,guitar/guitar_Fs4_very-long_piano_harmonics.mp3|40.129868,-30.5283,0,0,guitar/guitar_Fs4_very-long_piano_normal.mp3|37.58945,-17.213472,0,0,guitar/guitar_Fs5_very-long_piano_harmonics.mp3|30.42014,-17.387005,0,0,guitar/guitar_G2_very-long_forte_normal.mp3|31.46128,-17.756758,0,0,guitar/guitar_G2_very-long_piano_normal.mp3|45.761753,-26.449005,0,0,guitar/guitar_G3_very-long_forte_normal.mp3|40.61003,-18.280201,0,0,guitar/guitar_G3_very-long_piano_harmonics.mp3|46.281044,-26.134418,0,0,guitar/guitar_G3_very-long_piano_normal.mp3|44.292404,-26.201984,0,0,guitar/guitar_G4_very-long_forte_harmonics.mp3|45.07345,-26.951117,0,0,guitar/guitar_G4_very-long_forte_normal.mp3|44.08986,-25.980827,0,0,guitar/guitar_G4_very-long_pianissimo_harmonics.mp3|40.16797,-17.365213,0,0,guitar/guitar_G4_very-long_piano_harmonics.mp3|44.36824,-26.29469,0,0,guitar/guitar_G4_very-long_piano_normal.mp3|39.543427,-19.125599,0,0,guitar/guitar_G5_very-long_forte_harmonics.mp3|38.70046,-17.060768,0,0,guitar/guitar_G5_very-long_forte_normal.mp3|38.851162,-17.550863,0,0,guitar/guitar_G5_very-long_piano_harmonics.mp3|32.644302,-15.752602,0,0,guitar/guitar_Gs2_very-long_forte_normal.mp3|33.11695,-16.292856,0,0,guitar/guitar_Gs2_very-long_piano_normal.mp3|37.401844,-6.926647,0,0,guitar/guitar_Gs3_very-long_forte_normal.mp3|37.40633,-6.938603,0,0,guitar/guitar_Gs3_very-long_piano_normal.mp3|33.243397,-24.125515,0,0,guitar/guitar_Gs4_very-long_forte_normal.mp3|33.273808,-24.107801,0,0,guitar/guitar_Gs4_very-long_piano_normal.mp3|37.789333,-18.717379,0,0,guitar/guitar_Gs5_very-long_forte_normal.mp3|19.71981,-33.433567,0,0,percussion/agogo bells/agogo-bells__025_mezzo-forte_struck-singly.mp3|27.956669,-29.43974,0,0,percussion/agogo bells/agogo-bells__phrase_mezzo-forte_rhythm.mp3|23.250566,-26.391764,0,0,percussion/banana shaker/banana-shaker__long_forte_shaken.mp3|29.207062,-34.762417,0,0,percussion/banana shaker/banana-shaker__phrase_mezzo-forte_rhythm.mp3|15.160524,-13.172172,0,0,percussion/bass drum/bass-drum__025_forte_bass-drum-mallet.mp3|15.660767,-13.450103,0,0,percussion/bass drum/bass-drum__025_mezzo-forte_bass-drum-mallet.mp3|21.140007,-34.195786,0,0,percussion/bass drum/bass-drum__025_mezzo-forte_rute.mp3|22.731226,-30.568453,0,0,percussion/bass drum/bass-drum__05_mezzo-forte_rute.mp3|20.223331,-17.287106,0,0,percussion/bass drum/bass-drum__15_mezzo-piano_rhythm.mp3|19.768557,-17.359854,0,0,percussion/bass drum/bass-drum__15_pianissimo_rhythm.mp3|15.98661,-12.631578,0,0,percussion/bass drum/bass-drum__1_fortissimo_struck-singly.mp3|16.73995,-13.965324,0,0,percussion/bass drum/bass-drum__1_mezzo-forte_bass-drum-mallet.mp3|19.10619,-17.343012,0,0,percussion/bass drum/bass-drum__1_mezzo-forte_flam.mp3|19.26211,-17.562721,0,0,percussion/bass drum/bass-drum__1_mezzo-piano_flam.mp3|16.084108,-13.547966,0,0,percussion/bass drum/bass-drum__1_mezzo-piano_struck-singly.mp3|19.60464,-23.083675,0,0,percussion/bass drum/bass-drum__1_pianissimo_struck-singly.mp3|23.725584,-22.659775,0,0,percussion/bass drum/bass-drum__long_crescendo_bass-drum-mallet.mp3|27.735806,-30.994757,0,0,percussion/bass drum/bass-drum__phrase_forte_rute.mp3|21.087822,-34.97759,0,0,percussion/bass drum/bass-drum__phrase_mezzo-forte_rute.mp3|12.231064,-8.16181,0,0,percussion/bass drum/bass-drum__phrase_mezzo-forte_sticks.mp3|12.232303,-8.243188,0,0,percussion/bass drum/bass-drum__phrase_mezzo-piano_rhythm.mp3|19.835157,-16.005692,0,0,percussion/bass drum/bass-drum__phrase_mezzo-piano_rute.mp3|20.371239,-36.331448,0,0,percussion/bell tree/bell-tree__025_forte_struck-singly.mp3|30.976368,-35.473396,0,0,percussion/bell tree/bell-tree__long_forte_glissando.mp3|30.901571,-35.06223,0,0,percussion/bell tree/bell-tree__long_mezzo-forte_glissando.mp3|20.577137,-28.030087,0,0,percussion/cabasa/cabasa__025_mezzo-forte_effect.mp3|24.081121,-28.800217,0,0,percussion/cabasa/cabasa__phrase_mezzo-forte_effect.mp3|20.01845,-34.958984,0,0,percussion/castanets/castanets__025_mezzo-forte_struck-singly.mp3|29.618425,-33.34016,0,0,percussion/castanets/castanets__long_mezzo-forte_roll.mp3|28.533844,-31.080673,0,0,percussion/castanets/castanets__phrase_forte_rhythm.mp3|29.080976,-32.818436,0,0,percussion/castanets/castanets__phrase_mezzo-forte_roll.mp3|25.896954,-41.731163,0,0,percussion/Chinese cymbal/Chinese-cymbal__05_forte_damped.mp3|28.142946,-25.568232,0,0,percussion/Chinese cymbal/Chinese-cymbal__1_crescendo_roll.mp3|25.809149,-41.269077,0,0,percussion/Chinese hand cymbals/Chinese-hand-cymbals__15_forte_struck-together.mp3|22.138557,-36.208256,0,0,percussion/Chinese hand cymbals/Chinese-hand-cymbals__1_mezzo-forte_struck-together.mp3|26.538015,-29.883007,0,0,percussion/Chinese hand cymbals/Chinese-hand-cymbals__long_mezzo-forte_rhythm.mp3|26.50015,-40.691086,0,0,percussion/Chinese hand cymbals/Chinese-hand-cymbals__very-long_mezzo-forte_rhythm.mp3|20.220858,-34.574776,0,0,percussion/clash cymbals/clash-cymbals__025_mezzo-forte_undamped.mp3|24.65577,-40.378136,0,0,percussion/clash cymbals/clash-cymbals__05_forte_damped.mp3|30.287664,-42.11197,0,0,percussion/clash cymbals/clash-cymbals__15_fortissimo_struck-together.mp3|30.296293,-42.099316,0,0,percussion/clash cymbals/clash-cymbals__1_forte_damped.mp3|29.994726,-36.453037,0,0,percussion/clash cymbals/clash-cymbals__1_piano_struck-together.mp3|29.33003,-42.64496,0,0,percussion/clash cymbals/clash-cymbals__long_forte_undamped.mp3|30.387571,-42.01511,0,0,percussion/clash cymbals/clash-cymbals__long_fortissimo_struck-together.mp3|19.91549,-31.111593,0,0,percussion/cowbell/cowbell__025_mezzo-forte_damped.mp3|16.532427,-36.074608,0,0,percussion/cowbell/cowbell__1_forte_undamped.mp3|16.541185,-36.053707,0,0,percussion/cowbell/cowbell__1_mezzo-forte_undamped.mp3|29.02531,-29.818512,0,0,percussion/cowbell/cowbell__long_mezzo-forte_rhythm.mp3|18.058355,-14.97445,0,0,percussion/djembe/djembe__05_forte_undamped.mp3|20.495686,-14.4928,0,0,percussion/djembe/djembe__phrase_fortissimo_rhythm.mp3|23.692585,-32.446384,0,0,percussion/djembe/djembe__phrase_mezzo-forte_rhythm.mp3|14.35324,43.053413,0,0,percussion/djundjun/djundjun__05_mezzo-forte_medium-sticks.mp3|16.791454,33.88672,0,0,percussion/djundjun/djundjun__05_mezzo-forte_struck-singly.mp3|19.764498,35.12921,0,0,percussion/djundjun/djundjun__1_mezzo-forte_rhythm.mp3|24.882961,-33.529312,0,0,percussion/djundjun/djundjun__phrase_mezzo-forte_rhythm.mp3|24.094069,-26.315971,0,0,percussion/flexatone/flexatone__05_forte_shaken.mp3|27.313288,-29.966656,0,0,percussion/flexatone/flexatone__very-long_forte_effect.mp3|20.696447,-28.784437,0,0,percussion/guiro/guiro__025_mezzo-forte_struck-singly.mp3|23.271883,-27.17805,0,0,percussion/guiro/guiro__05_mezzo-forte_scraped.mp3|21.548561,-29.383091,0,0,percussion/guiro/guiro__1_mezzo-forte_scraped.mp3|27.035585,-29.215824,0,0,percussion/guiro/guiro__phrase_mezzo-forte_scraped.mp3|24.054842,-27.044971,0,0,percussion/lemon shaker/lemon-shaker__long_forte_shaken.mp3|26.070824,-30.92777,0,0,percussion/lemon shaker/lemon-shaker__long_mezzo-forte_shaken.mp3|23.898964,-23.741987,0,0,percussion/lemon shaker/lemon-shaker__phrase_mezzo-forte_rhythm.mp3|21.74691,-31.329027,0,0,percussion/motor horn/motor-horn__05_forte_squeezed.mp3|30.56119,-36.067142,0,0,percussion/ratchet/ratchet__025_forte_clean.mp3|30.922749,-37.282944,0,0,percussion/ratchet/ratchet__long_forte_roll.mp3|20.276823,-29.551357,0,0,percussion/sheeps toenails/sheeps-toenails__025_mezzo-forte_shaken.mp3|30.03498,-34.666958,0,0,percussion/sheeps toenails/sheeps-toenails__very-long_mezzo-forte_shaken.mp3|26.5466,-26.357527,0,0,percussion/sizzle cymbal/sizzle-cymbal__long_mezzo-piano_sticks.mp3|21.481724,-27.322006,0,0,percussion/sleigh bells/sleigh-bells__05_mezzo-forte_shaken.mp3|24.632702,-28.154814,0,0,percussion/sleigh bells/sleigh-bells__long_forte_shaken.mp3|25.545513,-27.61438,0,0,percussion/sleigh bells/sleigh-bells__long_mezzo-forte_shaken.mp3|25.481943,-28.734999,0,0,percussion/sleigh bells/sleigh-bells__very-long_mezzo-forte_shaken.mp3|21.94718,-40.062473,0,0,percussion/snare drum/snare-drum__025_forte_with-snares.mp3|32.643322,-29.857483,0,0,percussion/snare drum/snare-drum__025_fortissimo_with-snares.mp3|32.647472,-29.849413,0,0,percussion/snare drum/snare-drum__025_mezzo-forte_with-snares.mp3|-7.617607,1.6812432,0,0,percussion/snare drum/snare-drum__long_forte_roll.mp3|26.559206,-10.679268,0,0,percussion/snare drum/snare-drum__long_mezzo-forte_rhythm.mp3|26.711802,-10.657724,0,0,percussion/snare drum/snare-drum__long_mezzo-forte_roll.mp3|24.65517,-32.5954,0,0,percussion/snare drum/snare-drum__phrase_cresc-decresc_rhythm.mp3|25.705164,-11.720855,0,0,percussion/snare drum/snare-drum__phrase_crescendo_flam.mp3|-7.617132,1.6766554,0,0,percussion/snare drum/snare-drum__phrase_decrescendo_roll.mp3|25.862892,-10.8758955,0,0,percussion/snare drum/snare-drum__phrase_mezzo-forte_rhythm.mp3|28.493042,-10.54101,0,0,percussion/snare drum/snare-drum__phrase_mezzo-forte_without-snares.mp3|24.655,-32.545578,0,0,percussion/snare drum/snare-drum__very-long_cresc-decresc_roll.mp3|20.846945,-26.48613,0,0,percussion/spring coil/spring-coil__05_mezzo-forte_struck-singly.mp3|23.095331,-28.534159,0,0,percussion/spring coil/spring-coil__1_mezzo-forte_glissando.mp3|22.206116,-26.997515,0,0,percussion/spring coil/spring-coil__1_mezzo-forte_struck-singly.mp3|23.096931,-27.730347,0,0,percussion/spring coil/spring-coil__long_forte_glissando.mp3|21.583649,-28.120049,0,0,percussion/spring coil/spring-coil__long_forte_struck-singly.mp3|24.25942,-30.101408,0,0,percussion/squeaker/squeaker__05_forte_squeezed.mp3|23.346624,-25.549566,0,0,percussion/strawberry shaker/strawberry-shaker__long_forte_shaken.mp3|22.74488,-24.143734,0,0,percussion/strawberry shaker/strawberry-shaker__phrase_mezzo-forte_rhythm.mp3|2.071746,-20.858019,0,0,percussion/surdo/surdo__05_forte_damped.mp3|0.41286808,-12.270962,0,0,percussion/surdo/surdo__05_forte_undamped.mp3|2.0643466,-20.967758,0,0,percussion/surdo/surdo__15_forte_damped.mp3|-11.183567,-6.6034155,0,0,percussion/surdo/surdo__phrase_forte_rhythm.mp3|22.211939,-34.39741,0,0,percussion/suspended cymbal/suspended-cymbal__05_mezzo-forte_damped.mp3|23.897768,-27.85142,0,0,percussion/suspended cymbal/suspended-cymbal__1_forte_scraped.mp3|30.532982,-38.583897,0,0,percussion/suspended cymbal/suspended-cymbal__long_forte_vibe-mallet-undamped.mp3|26.72779,-35.34555,0,0,percussion/suspended cymbal/suspended-cymbal__very-long_cresc-decresc_roll.mp3|26.13528,-24.464666,0,0,percussion/swanee whistle/swanee-whistle__05_forte_effect.mp3|26.71598,-24.45317,0,0,percussion/swanee whistle/swanee-whistle__1_forte_effect.mp3|28.02787,-24.197668,0,0,percussion/swanee whistle/swanee-whistle__very-long_forte_effect.mp3|32.22787,-36.402203,0,0,percussion/tam-tam/tam-tam__long_forte_scraped.mp3|26.544432,-36.02086,0,0,percussion/tam-tam/tam-tam__long_fortissimo_damped.mp3|28.999348,-27.871489,0,0,percussion/tam-tam/tam-tam__long_mezzo-piano_undamped.mp3|24.706774,-25.55543,0,0,percussion/tam-tam/tam-tam__phrase_mezzo-piano_rimshot.mp3|22.64362,-39.583733,0,0,percussion/tambourine/tambourine__025_forte_hand.mp3|22.672176,-39.62582,0,0,percussion/tambourine/tambourine__025_fortissimo_hand.mp3|21.418146,-36.851498,0,0,percussion/tambourine/tambourine__05_forte_hand.mp3|24.659035,-26.723186,0,0,percussion/tambourine/tambourine__1_mezzo-piano_shaken.mp3|25.310152,-26.2005,0,0,percussion/tambourine/tambourine__long_cresc-decresc_shaken.mp3|22.633116,-26.337086,0,0,percussion/tambourine/tambourine__phrase_crescendo_hand.mp3|27.519234,-37.940426,0,0,percussion/tambourine/tambourine__phrase_decrescendo_hand.mp3|26.818253,-38.297855,0,0,percussion/tambourine/tambourine__phrase_forte_hand.mp3|31.270796,-38.169838,0,0,percussion/tambourine/tambourine__phrase_mezzo-forte_body.mp3|30.421204,-34.067616,0,0,percussion/tambourine/tambourine__phrase_mezzo-forte_hand.mp3|26.372356,-28.401731,0,0,percussion/tambourine/tambourine__phrase_mezzo-piano_shaken.mp3|-5.5217566,-0.81855845,0,0,percussion/tenor drum/tenor-drum__phrase_forte_damped.mp3|-5.5283957,-0.79052365,0,0,percussion/tenor drum/tenor-drum__phrase_forte_undamped.mp3|28.357685,-39.270554,0,0,percussion/Thai gong/Thai-gong__long_forte_damped.mp3|28.407167,-39.076305,0,0,percussion/Thai gong/Thai-gong__long_forte_undamped.mp3|25.954456,-42.021183,0,0,percussion/Thai gong/Thai-gong__long_fortissimo_undamped.mp3|17.170235,-29.032001,0,0,percussion/tom-toms/tom-toms__05_mezzo-forte_struck-singly.mp3|3.1950288,-10.255165,0,0,percussion/tom-toms/tom-toms__phrase_forte_medium-sticks.mp3|18.508871,-31.990238,0,0,percussion/train whistle/train-whistle__025_forte_clean.mp3|17.464018,-32.152603,0,0,percussion/train whistle/train-whistle__1_forte_effect.mp3|16.895704,-32.37522,0,0,percussion/train whistle/train-whistle__long_forte_clean.mp3|21.619232,-26.07869,0,0,percussion/triangle/triangle__long_decrescendo_roll.mp3|20.95703,-24.733265,0,0,percussion/triangle/triangle__long_piano_struck-singly.mp3|22.27013,-25.399248,0,0,percussion/triangle/triangle__phrase_mezzo-piano_damped.mp3|21.796425,-24.73039,0,0,percussion/triangle/triangle__phrase_mezzo-piano_rhythm.mp3|22.853588,-25.151247,0,0,percussion/triangle/triangle__very-long_mezzo-forte_roll.mp3|27.132164,-32.76417,0,0,percussion/vibraslap/vibraslap__05_forte_damped.mp3|25.085922,-27.437767,0,0,percussion/vibraslap/vibraslap__1_forte_damped.mp3|29.533636,-34.406826,0,0,percussion/vibraslap/vibraslap__very-long_forte_undamped.mp3|23.596457,-35.559677,0,0,percussion/washboard/washboard__025_forte_scraped.mp3|27.19831,-33.11509,0,0,percussion/washboard/washboard__05_forte_scraped.mp3|28.785524,-36.859776,0,0,percussion/washboard/washboard__phrase_forte_scraped.mp3|20.887426,-37.695946,0,0,percussion/whip/whip__025_forte_struck-together.mp3|20.5089,-37.39751,0,0,percussion/whip/whip__025_fortissimo_struck-together.mp3|20.647083,-36.66843,0,0,percussion/whip/whip__025_mezzo-forte_struck-together.mp3|28.406578,-37.333485,0,0,percussion/whip/whip__phrase_forte_struck-together.mp3|21.37132,-25.493114,0,0,percussion/wind chimes/wind-chimes__long_mezzo-piano_hand.mp3|19.818888,-31.892658,0,0,percussion/woodblock/woodblock__025_mezzo-forte_struck-singly.mp3|29.221176,-26.128645,0,0,percussion/woodblock/woodblock__phrase_mezzo-piano_rhythm.mp3|-15.89114,29.138224,0,0,tuba/tuba_A1_025_forte_normal.mp3|-17.838211,25.632137,0,0,tuba/tuba_A1_025_fortissimo_normal.mp3|-17.01581,30.9041,0,0,tuba/tuba_A1_025_mezzo-forte_normal.mp3|8.079555,-20.601309,0,0,tuba/tuba_A1_025_pianissimo_normal.mp3|-15.378119,28.316433,0,0,tuba/tuba_A1_05_forte_normal.mp3|-16.234665,30.505102,0,0,tuba/tuba_A1_05_fortissimo_normal.mp3|12.268493,-20.187,0,0,tuba/tuba_A1_05_mezzo-forte_normal.mp3|11.538747,-23.047585,0,0,tuba/tuba_A1_05_mezzo-piano_normal.mp3|11.749357,-21.87749,0,0,tuba/tuba_A1_05_pianissimo_mute.mp3|7.490618,-20.06563,0,0,tuba/tuba_A1_05_pianissimo_normal.mp3|10.618058,-22.82627,0,0,tuba/tuba_A1_05_piano_mute.mp3|0.86423194,-13.562577,0,0,tuba/tuba_A1_05_piano_normal.mp3|-23.385082,2.8890636,0,0,tuba/tuba_A1_15_fortissimo_normal.mp3|3.7257965,-12.524409,0,0,tuba/tuba_A1_15_pianissimo_normal.mp3|-21.955173,1.9178703,0,0,tuba/tuba_A1_1_forte_mute.mp3|-24.489813,3.4042904,0,0,tuba/tuba_A1_1_forte_normal.mp3|-24.346546,3.3467722,0,0,tuba/tuba_A1_1_fortissimo_normal.mp3|12.504851,-19.40813,0,0,tuba/tuba_A1_1_mezzo-forte_normal.mp3|12.163604,-23.493055,0,0,tuba/tuba_A1_1_mezzo-piano_normal.mp3|12.171225,-20.556757,0,0,tuba/tuba_A1_1_pianissimo_mute.mp3|6.813993,-19.878046,0,0,tuba/tuba_A1_1_pianissimo_normal.mp3|10.638503,-22.747581,0,0,tuba/tuba_A1_1_piano_mute.mp3|1.0165946,-13.359234,0,0,tuba/tuba_A1_1_piano_normal.mp3|-19.646538,37.167404,0,0,tuba/tuba_A2_025_forte_normal.mp3|7.0504594,32.68081,0,0,tuba/tuba_A2_025_fortissimo_normal.mp3|24.94831,-3.705009,0,0,tuba/tuba_A2_025_mezzo-forte_normal.mp3|25.63968,-4.6251082,0,0,tuba/tuba_A2_025_mezzo-piano_normal.mp3|9.98788,-16.616209,0,0,tuba/tuba_A2_025_pianissimo_normal.mp3|9.11006,34.373173,0,0,tuba/tuba_A2_05_forte_normal.mp3|8.449339,34.205833,0,0,tuba/tuba_A2_05_fortissimo_normal.mp3|10.948019,36.616867,0,0,tuba/tuba_A2_05_mezzo-forte_normal.mp3|7.837453,-18.692457,0,0,tuba/tuba_A2_05_mezzo-piano_mute.mp3|25.700573,-4.4782624,0,0,tuba/tuba_A2_05_mezzo-piano_normal.mp3|6.1547427,-12.702493,0,0,tuba/tuba_A2_05_pianissimo_normal.mp3|-1.5287932,-16.134243,0,0,tuba/tuba_A2_05_piano_normal.mp3|11.217551,34.125385,0,0,tuba/tuba_A2_15_forte_normal.mp3|11.907945,33.771515,0,0,tuba/tuba_A2_15_fortissimo_normal.mp3|12.292449,34.900723,0,0,tuba/tuba_A2_15_mezzo-forte_normal.mp3|27.36628,-1.2766643,0,0,tuba/tuba_A2_15_mezzo-piano_normal.mp3|4.66025,-10.969957,0,0,tuba/tuba_A2_15_pianissimo_normal.mp3|9.806162,34.593872,0,0,tuba/tuba_A2_1_forte_normal.mp3|10.93902,34.106155,0,0,tuba/tuba_A2_1_fortissimo_normal.mp3|10.585188,35.750668,0,0,tuba/tuba_A2_1_mezzo-forte_normal.mp3|7.539722,-18.874235,0,0,tuba/tuba_A2_1_mezzo-piano_mute.mp3|26.6452,-3.7751315,0,0,tuba/tuba_A2_1_mezzo-piano_normal.mp3|5.602186,-12.029411,0,0,tuba/tuba_A2_1_pianissimo_normal.mp3|-1.7999765,-14.21488,0,0,tuba/tuba_A2_1_piano_normal.mp3|-13.988321,5.2138214,0,0,tuba/tuba_A2_long_forte_minor-trill.mp3|31.151901,-7.1573887,0,0,tuba/tuba_A2_long_mezzo-forte_vibrato.mp3|31.16442,-7.233345,0,0,tuba/tuba_A2_very-long_cresc-decresc_normal.mp3|11.815885,42.048065,0,0,tuba/tuba_A3_025_forte_normal.mp3|12.380432,41.66133,0,0,tuba/tuba_A3_025_fortissimo_normal.mp3|12.6817875,42.36019,0,0,tuba/tuba_A3_025_mezzo-forte_normal.mp3|14.335365,42.11738,0,0,tuba/tuba_A3_025_mezzo-piano_normal.mp3|12.783962,43.22616,0,0,tuba/tuba_A3_025_pianissimo_normal.mp3|-5.1751647,44.946198,0,0,tuba/tuba_A3_025_piano_normal.mp3|13.369886,39.28267,0,0,tuba/tuba_A3_05_forte_normal.mp3|12.97164,38.602604,0,0,tuba/tuba_A3_05_fortissimo_normal.mp3|14.901326,39.610973,0,0,tuba/tuba_A3_05_mezzo-forte_normal.mp3|13.903909,40.749996,0,0,tuba/tuba_A3_05_mezzo-piano_normal.mp3|13.770158,41.345074,0,0,tuba/tuba_A3_05_pianissimo_normal.mp3|-10.00309,42.870308,0,0,tuba/tuba_A3_05_piano_normal.mp3|-9.450583,11.842369,0,0,tuba/tuba_A3_15_forte_minor-trill.mp3|13.852315,38.114414,0,0,tuba/tuba_A3_15_forte_normal.mp3|16.725185,36.69783,0,0,tuba/tuba_A3_15_fortissimo_normal.mp3|15.513179,36.46329,0,0,tuba/tuba_A3_15_mezzo-forte_normal.mp3|15.597052,35.926155,0,0,tuba/tuba_A3_15_mezzo-piano_normal.mp3|15.754318,36.87943,0,0,tuba/tuba_A3_15_pianissimo_normal.mp3|-14.20045,42.45516,0,0,tuba/tuba_A3_15_piano_normal.mp3|12.839543,40.303642,0,0,tuba/tuba_A3_1_forte_normal.mp3|14.243005,38.135017,0,0,tuba/tuba_A3_1_fortissimo_normal.mp3|13.298129,39.62818,0,0,tuba/tuba_A3_1_mezzo-forte_normal.mp3|14.440603,39.45025,0,0,tuba/tuba_A3_1_mezzo-piano_normal.mp3|14.046127,39.92657,0,0,tuba/tuba_A3_1_pianissimo_normal.mp3|-10.249851,43.33406,0,0,tuba/tuba_A3_1_piano_normal.mp3|-9.481022,11.754423,0,0,tuba/tuba_A3_long_forte_minor-trill.mp3|17.870522,36.155895,0,0,tuba/tuba_A3_long_mezzo-forte_vibrato.mp3|-9.470744,-0.53813195,0,0,tuba/tuba_A3_phrase_forte_normal.mp3|30.731207,-8.114083,0,0,tuba/tuba_A3_very-long_cresc-decresc_normal.mp3|-13.53647,1.1065191,0,0,tuba/tuba_As0_long_forte_normal.mp3|-13.801902,1.3770086,0,0,tuba/tuba_As0_long_fortissimo_normal.mp3|-13.139243,0.7654962,0,0,tuba/tuba_As0_long_mezzo-forte_normal.mp3|-11.575965,-2.301853,0,0,tuba/tuba_As0_long_mezzo-piano_normal.mp3|-13.715131,-7.8816204,0,0,tuba/tuba_As0_long_pianissimo_normal.mp3|-18.205723,31.986666,0,0,tuba/tuba_As1_025_forte_normal.mp3|-22.149744,29.552155,0,0,tuba/tuba_As1_025_fortissimo_normal.mp3|-17.26285,33.762146,0,0,tuba/tuba_As1_025_mezzo-forte_normal.mp3|9.168328,-20.799679,0,0,tuba/tuba_As1_025_pianissimo_normal.mp3|3.7177427,-18.088448,0,0,tuba/tuba_As1_025_piano_mute.mp3|-17.254055,31.167065,0,0,tuba/tuba_As1_05_forte_normal.mp3|-15.677216,28.978569,0,0,tuba/tuba_As1_05_fortissimo_normal.mp3|3.1983442,-18.41251,0,0,tuba/tuba_As1_05_mezzo-forte_normal.mp3|3.2991195,-18.417511,0,0,tuba/tuba_As1_05_pianissimo_mute.mp3|2.884635,-16.15554,0,0,tuba/tuba_As1_05_pianissimo_normal.mp3|-5.028744,-17.496792,0,0,tuba/tuba_As1_05_piano_normal.mp3|-16.022787,39.03933,0,0,tuba/tuba_As1_15_fortissimo_normal.mp3|4.4064455,-16.502546,0,0,tuba/tuba_As1_15_mezzo-piano_normal.mp3|2.0907269,-14.167079,0,0,tuba/tuba_As1_15_pianissimo_normal.mp3|-22.151247,2.3443942,0,0,tuba/tuba_As1_1_forte_normal.mp3|-13.009526,-0.98121965,0,0,tuba/tuba_As1_1_forte_tremolo.mp3|-15.245767,16.479883,0,0,tuba/tuba_As1_1_fortissimo_normal.mp3|-7.25179,-5.2039676,0,0,tuba/tuba_As1_1_mezzo-forte_normal.mp3|4.740854,-17.920338,0,0,tuba/tuba_As1_1_mezzo-piano_normal.mp3|2.7897942,-15.595185,0,0,tuba/tuba_As1_1_pianissimo_normal.mp3|-3.2744007,-12.125537,0,0,tuba/tuba_As1_1_piano_normal.mp3|-13.522495,2.8228767,0,0,tuba/tuba_As1_long_forte_major-trill.mp3|-13.724313,3.1635103,0,0,tuba/tuba_As1_long_forte_minor-trill.mp3|-8.729374,-4.479366,0,0,tuba/tuba_As1_phrase_mezzo-forte_nonlegato.mp3|-10.319543,-4.8951807,0,0,tuba/tuba_As1_phrase_mezzo-forte_staccato.mp3|-10.400711,-4.739316,0,0,tuba/tuba_As1_phrase_mezzo-forte_tenuto.mp3|16.478292,-21.67609,0,0,tuba/tuba_As1_phrase_mezzo-piano_normal.mp3|-18.913826,36.477688,0,0,tuba/tuba_As2_025_forte_normal.mp3|-20.555841,36.83957,0,0,tuba/tuba_As2_025_fortissimo_normal.mp3|-17.025974,41.431942,0,0,tuba/tuba_As2_025_mezzo-piano_normal.mp3|-0.43003842,-21.164162,0,0,tuba/tuba_As2_025_pianissimo_normal.mp3|-23.522236,25.059792,0,0,tuba/tuba_As2_05_forte_normal.mp3|-18.945713,38.17202,0,0,tuba/tuba_As2_05_fortissimo_normal.mp3|20.580929,-5.85158,0,0,tuba/tuba_As2_05_mezzo-forte_normal.mp3|2.0074062,-17.485056,0,0,tuba/tuba_As2_05_mezzo-piano_mute.mp3|0.24142428,-22.228012,0,0,tuba/tuba_As2_05_mezzo-piano_normal.mp3|-1.5481443,-15.512077,0,0,tuba/tuba_As2_05_pianissimo_normal.mp3|-3.8163662,-16.3302,0,0,tuba/tuba_As2_05_piano_normal.mp3|-17.738283,39.842728,0,0,tuba/tuba_As2_15_forte_normal.mp3|-16.935612,39.569817,0,0,tuba/tuba_As2_15_fortissimo_normal.mp3|-16.22396,41.070763,0,0,tuba/tuba_As2_15_mezzo-piano_normal.mp3|-1.902974,-13.358408,0,0,tuba/tuba_As2_15_pianissimo_normal.mp3|-19.147491,-29.41039,0,0,tuba/tuba_As2_1_forte_normal.mp3|-17.743471,39.915634,0,0,tuba/tuba_As2_1_fortissimo_normal.mp3|-16.30575,40.48851,0,0,tuba/tuba_As2_1_mezzo-forte_normal.mp3|1.7344097,-16.340996,0,0,tuba/tuba_As2_1_mezzo-piano_mute.mp3|-0.5162894,-17.961227,0,0,tuba/tuba_As2_1_mezzo-piano_normal.mp3|-1.5189655,-14.791418,0,0,tuba/tuba_As2_1_pianissimo_normal.mp3|-3.591688,-13.464554,0,0,tuba/tuba_As2_1_piano_normal.mp3|-7.677092,6.0179424,0,0,tuba/tuba_As2_phrase_mezzo-forte_nonlegato.mp3|-9.361891,43.7402,0,0,tuba/tuba_As3_025_forte_normal.mp3|-6.1171265,46.31223,0,0,tuba/tuba_As3_025_fortissimo_normal.mp3|-7.3079667,42.55132,0,0,tuba/tuba_As3_025_mezzo-forte_normal.mp3|-5.3338013,45.08636,0,0,tuba/tuba_As3_025_pianissimo_normal.mp3|-7.8683662,48.22461,0,0,tuba/tuba_As3_025_piano_normal.mp3|-12.715874,42.947506,0,0,tuba/tuba_As3_05_forte_normal.mp3|-11.117564,42.564693,0,0,tuba/tuba_As3_05_fortissimo_normal.mp3|-8.654262,42.327923,0,0,tuba/tuba_As3_05_mezzo-forte_normal.mp3|-0.46858242,-20.487555,0,0,tuba/tuba_As3_05_mezzo-piano_mute.mp3|-9.448965,42.344273,0,0,tuba/tuba_As3_05_mezzo-piano_normal.mp3|-7.3279614,43.620365,0,0,tuba/tuba_As3_05_pianissimo_normal.mp3|-6.4043665,44.03762,0,0,tuba/tuba_As3_05_piano_mute.mp3|-10.074422,47.36488,0,0,tuba/tuba_As3_05_piano_normal.mp3|-11.4271,42.83488,0,0,tuba/tuba_As3_15_forte_normal.mp3|-14.4988365,42.937782,0,0,tuba/tuba_As3_15_fortissimo_normal.mp3|-12.936625,42.298016,0,0,tuba/tuba_As3_15_mezzo-forte_normal.mp3|-14.101907,42.06508,0,0,tuba/tuba_As3_15_pianissimo_normal.mp3|-14.884767,46.104366,0,0,tuba/tuba_As3_15_piano_normal.mp3|-8.814695,43.924458,0,0,tuba/tuba_As3_1_forte_normal.mp3|-13.446473,42.766155,0,0,tuba/tuba_As3_1_fortissimo_normal.mp3|-9.637576,41.924343,0,0,tuba/tuba_As3_1_mezzo-forte_normal.mp3|-1.64646,-16.520798,0,0,tuba/tuba_As3_1_mezzo-piano_mute.mp3|-13.7321005,41.77669,0,0,tuba/tuba_As3_1_mezzo-piano_normal.mp3|-9.182884,42.939194,0,0,tuba/tuba_As3_1_pianissimo_normal.mp3|-8.349111,43.090244,0,0,tuba/tuba_As3_1_piano_mute.mp3|-11.863049,47.54038,0,0,tuba/tuba_As3_1_piano_normal.mp3|-9.970461,15.215113,0,0,tuba/tuba_As3_long_forte_glissando.mp3|-10.33106,-0.036925618,0,0,tuba/tuba_As3_phrase_forte_normal.mp3|-17.073843,3.6119292,0,0,tuba/tuba_B0_long_forte_normal.mp3|-16.230957,3.0648355,0,0,tuba/tuba_B0_long_fortissimo_normal.mp3|-14.243077,1.8073369,0,0,tuba/tuba_B0_long_mezzo-forte_normal.mp3|-15.191279,-9.862459,0,0,tuba/tuba_B0_long_mezzo-piano_normal.mp3|-13.19563,-7.2197986,0,0,tuba/tuba_B0_long_pianissimo_normal.mp3|-14.229281,-6.60841,0,0,tuba/tuba_B0_long_piano_normal.mp3|-22.19374,25.13925,0,0,tuba/tuba_B1_025_forte_normal.mp3|-21.313906,23.974064,0,0,tuba/tuba_B1_025_mezzo-forte_normal.mp3|-0.5533468,-24.642405,0,0,tuba/tuba_B1_025_mezzo-piano_normal.mp3|-1.1065125,-25.242805,0,0,tuba/tuba_B1_025_pianissimo_normal.mp3|-22.231226,24.281126,0,0,tuba/tuba_B1_05_forte_normal.mp3|-22.439823,9.64414,0,0,tuba/tuba_B1_05_fortissimo_normal.mp3|-21.223118,23.51063,0,0,tuba/tuba_B1_05_mezzo-forte_normal.mp3|10.901361,-34.251286,0,0,tuba/tuba_B1_05_mezzo-piano_normal.mp3|-4.112247,-21.457531,0,0,tuba/tuba_B1_05_pianissimo_normal.mp3|-14.909611,-24.389431,0,0,tuba/tuba_B1_05_piano_normal.mp3|-3.8175817,-11.297802,0,0,tuba/tuba_B1_15_mezzo-piano_normal.mp3|-2.7155206,-11.798539,0,0,tuba/tuba_B1_15_pianissimo_normal.mp3|-21.977339,12.427819,0,0,tuba/tuba_B1_1_forte_normal.mp3|-13.117285,-0.2912756,0,0,tuba/tuba_B1_1_forte_tremolo.mp3|0.6771753,23.244886,0,0,tuba/tuba_B1_1_fortissimo_mute.mp3|-22.456366,9.560685,0,0,tuba/tuba_B1_1_fortissimo_normal.mp3|-20.92305,23.014309,0,0,tuba/tuba_B1_1_mezzo-forte_normal.mp3|10.917901,-34.258255,0,0,tuba/tuba_B1_1_mezzo-piano_normal.mp3|-4.122877,-21.340778,0,0,tuba/tuba_B1_1_pianissimo_normal.mp3|-16.988049,-20.928808,0,0,tuba/tuba_B1_1_piano_normal.mp3|-19.185102,-27.464275,0,0,tuba/tuba_B2_025_forte_normal.mp3|-23.690767,26.193426,0,0,tuba/tuba_B2_025_fortissimo_normal.mp3|-0.32144922,-23.600769,0,0,tuba/tuba_B2_025_mezzo-piano_normal.mp3|-1.2011969,-21.375841,0,0,tuba/tuba_B2_025_pianissimo_normal.mp3|-23.777586,24.323006,0,0,tuba/tuba_B2_05_forte_normal.mp3|-24.027756,24.21451,0,0,tuba/tuba_B2_05_fortissimo_normal.mp3|-4.598519,-18.849134,0,0,tuba/tuba_B2_05_mezzo-piano_mute.mp3|-4.684375,-15.964613,0,0,tuba/tuba_B2_05_mezzo-piano_normal.mp3|-3.2417707,-15.816585,0,0,tuba/tuba_B2_05_pianissimo_normal.mp3|-17.515984,-24.07747,0,0,tuba/tuba_B2_05_piano_normal.mp3|-40.503796,3.086034,0,0,tuba/tuba_B2_15_forte_normal.mp3|-23.563566,13.138828,0,0,tuba/tuba_B2_15_fortissimo_normal.mp3|-4.8298364,-13.181999,0,0,tuba/tuba_B2_15_mezzo-piano_normal.mp3|-3.2585015,-13.56675,0,0,tuba/tuba_B2_15_pianissimo_normal.mp3|-24.624187,11.48527,0,0,tuba/tuba_B2_1_forte_mute.mp3|-41.290504,3.7654982,0,0,tuba/tuba_B2_1_forte_normal.mp3|-25.10394,12.69213,0,0,tuba/tuba_B2_1_fortissimo_mute.mp3|-23.363321,13.484187,0,0,tuba/tuba_B2_1_fortissimo_normal.mp3|-4.804112,-13.259979,0,0,tuba/tuba_B2_1_mezzo-forte_normal.mp3|-4.9837117,-17.70909,0,0,tuba/tuba_B2_1_mezzo-piano_mute.mp3|-3.07232,-18.382532,0,0,tuba/tuba_B2_1_mezzo-piano_normal.mp3|-3.3265934,-16.113482,0,0,tuba/tuba_B2_1_pianissimo_normal.mp3|-18.396893,-21.649748,0,0,tuba/tuba_B2_1_piano_normal.mp3|-13.053389,4.402086,0,0,tuba/tuba_B2_long_forte_glissando.mp3|-6.761225,48.1434,0,0,tuba/tuba_B3_025_forte_normal.mp3|-7.007149,47.65778,0,0,tuba/tuba_B3_025_fortissimo_normal.mp3|-8.138286,46.792027,0,0,tuba/tuba_B3_025_mezzo-forte_normal.mp3|-11.329005,46.92388,0,0,tuba/tuba_B3_025_mezzo-piano_normal.mp3|-7.458892,49.063377,0,0,tuba/tuba_B3_025_pianissimo_normal.mp3|-53.55968,7.9130316,0,0,tuba/tuba_B3_025_piano_normal.mp3|-9.334762,48.602768,0,0,tuba/tuba_B3_05_forte_normal.mp3|-13.1927805,47.6726,0,0,tuba/tuba_B3_05_fortissimo_normal.mp3|-13.663849,46.6202,0,0,tuba/tuba_B3_05_mezzo-forte_normal.mp3|-1.6823907,-20.255264,0,0,tuba/tuba_B3_05_mezzo-piano_mute.mp3|-10.665735,47.009304,0,0,tuba/tuba_B3_05_mezzo-piano_normal.mp3|-8.478506,48.6239,0,0,tuba/tuba_B3_05_pianissimo_normal.mp3|-7.320291,48.333477,0,0,tuba/tuba_B3_05_piano_mute.mp3|-52.96538,5.932757,0,0,tuba/tuba_B3_05_piano_normal.mp3|-11.929955,48.517418,0,0,tuba/tuba_B3_15_forte_normal.mp3|-14.835964,46.838055,0,0,tuba/tuba_B3_15_fortissimo_normal.mp3|-13.169591,46.702347,0,0,tuba/tuba_B3_15_mezzo-forte_normal.mp3|-14.605093,46.001392,0,0,tuba/tuba_B3_15_pianissimo_normal.mp3|-50.96627,3.312979,0,0,tuba/tuba_B3_15_piano_normal.mp3|-12.611222,47.791847,0,0,tuba/tuba_B3_1_forte_normal.mp3|-14.531157,46.87605,0,0,tuba/tuba_B3_1_fortissimo_normal.mp3|-9.8665285,48.116844,0,0,tuba/tuba_B3_1_mezzo-forte_normal.mp3|-3.7082984,-16.686289,0,0,tuba/tuba_B3_1_mezzo-piano_mute.mp3|-10.410293,48.60236,0,0,tuba/tuba_B3_1_mezzo-piano_normal.mp3|-10.699896,48.011806,0,0,tuba/tuba_B3_1_pianissimo_normal.mp3|-8.981724,47.734283,0,0,tuba/tuba_B3_1_piano_mute.mp3|-52.5224,4.578638,0,0,tuba/tuba_B3_1_piano_normal.mp3|-16.066935,4.3653364,0,0,tuba/tuba_C1_long_forte_normal.mp3|-15.226713,3.1414862,0,0,tuba/tuba_C1_long_fortissimo_normal.mp3|-13.971551,-0.45854646,0,0,tuba/tuba_C1_long_mezzo-forte_normal.mp3|-15.657062,-8.788055,0,0,tuba/tuba_C1_long_mezzo-piano_normal.mp3|-15.816398,-7.715218,0,0,tuba/tuba_C1_long_pianissimo_normal.mp3|-13.186153,-6.8596225,0,0,tuba/tuba_C1_long_piano_normal.mp3|-10.479554,-26.910433,0,0,tuba/tuba_C2_025_forte_mute.mp3|-11.337741,24.174397,0,0,tuba/tuba_C2_025_forte_normal.mp3|-10.702768,22.499306,0,0,tuba/tuba_C2_025_fortissimo_normal.mp3|-10.80551,22.972788,0,0,tuba/tuba_C2_025_mezzo-forte_normal.mp3|-13.99963,-24.00679,0,0,tuba/tuba_C2_025_mezzo-piano_normal.mp3|-9.31777,-27.701357,0,0,tuba/tuba_C2_025_pianissimo_normal.mp3|-7.2600965,-26.797337,0,0,tuba/tuba_C2_025_piano_normal.mp3|-11.205837,23.94706,0,0,tuba/tuba_C2_05_forte_normal.mp3|-20.711447,-14.036017,0,0,tuba/tuba_C2_05_fortissimo_normal.mp3|-14.424886,-23.323065,0,0,tuba/tuba_C2_05_mezzo-forte_normal.mp3|-11.196924,-29.229057,0,0,tuba/tuba_C2_05_mezzo-piano_normal.mp3|-9.840365,-28.798664,0,0,tuba/tuba_C2_05_pianissimo_normal.mp3|-1.3992976,-25.954836,0,0,tuba/tuba_C2_05_piano_mute.mp3|-23.131435,-23.688797,0,0,tuba/tuba_C2_05_piano_normal.mp3|-16.401081,-20.689552,0,0,tuba/tuba_C2_15_pianissimo_normal.mp3|-21.075424,-20.788158,0,0,tuba/tuba_C2_15_piano_normal.mp3|-20.656536,-14.128387,0,0,tuba/tuba_C2_1_forte_normal.mp3|-14.361913,0.06209334,0,0,tuba/tuba_C2_1_forte_tremolo.mp3|-22.04101,12.521731,0,0,tuba/tuba_C2_1_fortissimo_normal.mp3|-15.99995,-20.179394,0,0,tuba/tuba_C2_1_mezzo-forte_normal.mp3|-15.444822,-21.019373,0,0,tuba/tuba_C2_1_mezzo-piano_normal.mp3|-11.709891,-28.300087,0,0,tuba/tuba_C2_1_pianissimo_normal.mp3|-11.565554,-28.915815,0,0,tuba/tuba_C2_1_piano_mute.mp3|-22.867777,-22.861862,0,0,tuba/tuba_C2_1_piano_normal.mp3|-17.428005,-0.45745742,0,0,tuba/tuba_C2_long_forte_major-trill.mp3|-17.913742,-3.296057,0,0,tuba/tuba_C2_long_piano_normal.mp3|-16.46867,-10.492021,0,0,tuba/tuba_C2_very-long_cresc-decresc_normal.mp3|-16.501846,-10.4191065,0,0,tuba/tuba_C2_very-long_piano_normal.mp3|-40.851807,2.8085296,0,0,tuba/tuba_C3_025_forte_normal.mp3|-19.171072,-29.578178,0,0,tuba/tuba_C3_025_fortissimo_normal.mp3|-8.133477,-26.844072,0,0,tuba/tuba_C3_025_mezzo-piano_normal.mp3|-8.142685,-29.348202,0,0,tuba/tuba_C3_025_pianissimo_normal.mp3|-6.5615153,-26.574295,0,0,tuba/tuba_C3_025_piano_normal.mp3|-38.89401,1.5916128,0,0,tuba/tuba_C3_05_forte_normal.mp3|-18.796087,-27.273212,0,0,tuba/tuba_C3_05_fortissimo_normal.mp3|-12.857361,-26.395706,0,0,tuba/tuba_C3_05_mezzo-piano_mute.mp3|-16.406841,-25.852854,0,0,tuba/tuba_C3_05_mezzo-piano_normal.mp3|-14.661516,-26.895128,0,0,tuba/tuba_C3_05_pianissimo_normal.mp3|-8.290443,-27.50269,0,0,tuba/tuba_C3_05_piano_mute.mp3|-22.400055,-23.946749,0,0,tuba/tuba_C3_05_piano_normal.mp3|-18.854376,-25.573586,0,0,tuba/tuba_C3_15_forte_normal.mp3|-18.914143,-24.845358,0,0,tuba/tuba_C3_15_fortissimo_normal.mp3|-18.386515,-21.930998,0,0,tuba/tuba_C3_15_pianissimo_normal.mp3|-21.29734,-21.51319,0,0,tuba/tuba_C3_15_piano_normal.mp3|-18.514734,-27.104908,0,0,tuba/tuba_C3_1_forte_normal.mp3|-19.150597,-25.958164,0,0,tuba/tuba_C3_1_fortissimo_normal.mp3|-18.068666,-22.115915,0,0,tuba/tuba_C3_1_mezzo-forte_normal.mp3|-14.545374,-24.73877,0,0,tuba/tuba_C3_1_mezzo-piano_mute.mp3|-18.105766,-20.964449,0,0,tuba/tuba_C3_1_mezzo-piano_normal.mp3|-15.493088,-26.576849,0,0,tuba/tuba_C3_1_pianissimo_normal.mp3|-8.767814,-28.57152,0,0,tuba/tuba_C3_1_piano_mute.mp3|-22.268406,-22.951607,0,0,tuba/tuba_C3_1_piano_normal.mp3|-20.04042,-7.65563,0,0,tuba/tuba_C3_long_forte_major-trill.mp3|-20.058914,-7.618503,0,0,tuba/tuba_C3_long_forte_minor-trill.mp3|-18.740696,-8.762433,0,0,tuba/tuba_C3_long_mezzo-forte_vibrato.mp3|-19.048939,-23.374815,0,0,tuba/tuba_C3_phrase_forte_normal.mp3|-18.177822,-9.212213,0,0,tuba/tuba_C3_very-long_cresc-decresc_normal.mp3|-17.923351,-9.479847,0,0,tuba/tuba_C3_very-long_piano_normal.mp3|-52.10029,8.770473,0,0,tuba/tuba_C4_025_forte_normal.mp3|-52.2977,9.736139,0,0,tuba/tuba_C4_025_fortissimo_normal.mp3|-52.91688,8.561064,0,0,tuba/tuba_C4_025_mezzo-forte_normal.mp3|-53.166336,9.034194,0,0,tuba/tuba_C4_025_mezzo-piano_normal.mp3|-53.67689,8.503713,0,0,tuba/tuba_C4_025_pianissimo_normal.mp3|-41.95624,7.0768995,0,0,tuba/tuba_C4_025_piano_normal.mp3|-52.129013,8.100534,0,0,tuba/tuba_C4_05_forte_normal.mp3|-52.019028,6.206055,0,0,tuba/tuba_C4_05_fortissimo_normal.mp3|-53.670715,4.982517,0,0,tuba/tuba_C4_05_mezzo-forte_normal.mp3|-13.832128,-26.897396,0,0,tuba/tuba_C4_05_mezzo-piano_mute.mp3|-53.790234,5.674044,0,0,tuba/tuba_C4_05_mezzo-piano_normal.mp3|-53.0887,6.7584863,0,0,tuba/tuba_C4_05_pianissimo_normal.mp3|-38.595192,5.7114778,0,0,tuba/tuba_C4_05_piano_normal.mp3|-51.35997,6.1902595,0,0,tuba/tuba_C4_15_forte_normal.mp3|-50.50816,3.4890976,0,0,tuba/tuba_C4_15_fortissimo_normal.mp3|-51.50389,3.9277961,0,0,tuba/tuba_C4_15_mezzo-forte_normal.mp3|-52.137398,3.4801764,0,0,tuba/tuba_C4_15_mezzo-piano_normal.mp3|-51.375305,3.1532502,0,0,tuba/tuba_C4_15_pianissimo_normal.mp3|-34.947292,3.2380478,0,0,tuba/tuba_C4_15_piano_normal.mp3|-51.942574,7.074174,0,0,tuba/tuba_C4_1_forte_normal.mp3|-48.872234,4.1939006,0,0,tuba/tuba_C4_1_fortissimo_mute.mp3|-51.547924,4.89167,0,0,tuba/tuba_C4_1_fortissimo_normal.mp3|-52.425446,5.775628,0,0,tuba/tuba_C4_1_mezzo-forte_normal.mp3|-16.140493,-26.080746,0,0,tuba/tuba_C4_1_mezzo-piano_mute.mp3|-53.639927,6.595379,0,0,tuba/tuba_C4_1_mezzo-piano_normal.mp3|-48.994434,4.1724153,0,0,tuba/tuba_C4_1_pianissimo_mute.mp3|-52.762844,5.2555375,0,0,tuba/tuba_C4_1_pianissimo_normal.mp3|-37.257423,4.75133,0,0,tuba/tuba_C4_1_piano_normal.mp3|-32.71722,0.83487093,0,0,tuba/tuba_C4_long_forte_major-trill.mp3|-33.235664,1.0768211,0,0,tuba/tuba_C4_long_forte_minor-trill.mp3|-33.262337,-2.8936713,0,0,tuba/tuba_C4_long_mezzo-forte_vibrato.mp3|-32.65468,-3.333815,0,0,tuba/tuba_C4_very-long_cresc-decresc_normal.mp3|-32.991734,-3.0280943,0,0,tuba/tuba_C4_very-long_piano_normal.mp3|-16.846552,3.8236403,0,0,tuba/tuba_Cs1_long_forte_normal.mp3|-15.193393,2.3501687,0,0,tuba/tuba_Cs1_long_fortissimo_normal.mp3|-14.399149,-4.355412,0,0,tuba/tuba_Cs1_long_mezzo-forte_normal.mp3|-14.168393,-9.315412,0,0,tuba/tuba_Cs1_long_mezzo-piano_normal.mp3|-15.784578,-7.5864205,0,0,tuba/tuba_Cs1_long_piano_normal.mp3|-39.550583,17.840405,0,0,tuba/tuba_Cs2_025_forte_normal.mp3|-38.752625,18.441082,0,0,tuba/tuba_Cs2_025_fortissimo_normal.mp3|-39.37242,18.17334,0,0,tuba/tuba_Cs2_025_mezzo-forte_normal.mp3|-4.251758,-29.431574,0,0,tuba/tuba_Cs2_025_mezzo-piano_normal.mp3|-4.2970204,-29.347412,0,0,tuba/tuba_Cs2_025_pianissimo_normal.mp3|-4.7132463,-25.360605,0,0,tuba/tuba_Cs2_025_piano_normal.mp3|-39.45636,19.072853,0,0,tuba/tuba_Cs2_05_forte_normal.mp3|-39.844013,20.622595,0,0,tuba/tuba_Cs2_05_fortissimo_normal.mp3|-39.692482,18.62829,0,0,tuba/tuba_Cs2_05_mezzo-forte_normal.mp3|-9.733004,-31.992687,0,0,tuba/tuba_Cs2_05_mezzo-piano_normal.mp3|-10.856189,-31.790716,0,0,tuba/tuba_Cs2_05_pianissimo_normal.mp3|-27.01429,-19.655535,0,0,tuba/tuba_Cs2_05_piano_normal.mp3|-40.231586,22.137655,0,0,tuba/tuba_Cs2_15_forte_normal.mp3|-40.2823,22.906572,0,0,tuba/tuba_Cs2_15_fortissimo_normal.mp3|-10.518829,-32.987576,0,0,tuba/tuba_Cs2_15_mezzo-piano_normal.mp3|-21.983576,-20.26516,0,0,tuba/tuba_Cs2_15_pianissimo_normal.mp3|-24.609625,-18.524372,0,0,tuba/tuba_Cs2_15_piano_normal.mp3|-40.34737,22.316612,0,0,tuba/tuba_Cs2_1_forte_normal.mp3|-39.95472,21.411173,0,0,tuba/tuba_Cs2_1_fortissimo_normal.mp3|-40.025715,18.642239,0,0,tuba/tuba_Cs2_1_mezzo-forte_normal.mp3|-10.068297,-32.309124,0,0,tuba/tuba_Cs2_1_mezzo-piano_normal.mp3|-10.943484,-31.662117,0,0,tuba/tuba_Cs2_1_pianissimo_normal.mp3|-26.638231,-19.530388,0,0,tuba/tuba_Cs2_1_piano_normal.mp3|-16.981493,0.14311272,0,0,tuba/tuba_Cs2_long_forte_minor-trill.mp3|-40.925556,-11.327125,0,0,tuba/tuba_Cs3_025_forte_normal.mp3|-42.542645,4.9838233,0,0,tuba/tuba_Cs3_025_fortissimo_normal.mp3|-38.129856,0.45511916,0,0,tuba/tuba_Cs3_025_mezzo-forte_normal.mp3|-24.22769,-23.129154,0,0,tuba/tuba_Cs3_025_mezzo-piano_normal.mp3|-4.936045,-26.40284,0,0,tuba/tuba_Cs3_025_piano_normal.mp3|-42.293602,-15.142056,0,0,tuba/tuba_Cs3_05_forte_normal.mp3|-41.11208,2.8415132,0,0,tuba/tuba_Cs3_05_fortissimo_normal.mp3|-7.0459104,-28.997133,0,0,tuba/tuba_Cs3_05_mezzo-forte_normal.mp3|-23.91489,-22.668188,0,0,tuba/tuba_Cs3_05_mezzo-piano_normal.mp3|-22.74432,-23.9512,0,0,tuba/tuba_Cs3_05_pianissimo_normal.mp3|-6.331436,-27.73572,0,0,tuba/tuba_Cs3_05_piano_mute.mp3|-26.446367,-21.280638,0,0,tuba/tuba_Cs3_05_piano_normal.mp3|-37.024845,-0.03612796,0,0,tuba/tuba_Cs3_15_fortissimo_normal.mp3|-40.169228,2.154243,0,0,tuba/tuba_Cs3_15_mezzo-forte_normal.mp3|-24.229258,-19.5727,0,0,tuba/tuba_Cs3_15_piano_normal.mp3|-37.17013,-1.2573102,0,0,tuba/tuba_Cs3_1_fortissimo_mute.mp3|-37.981056,0.89146036,0,0,tuba/tuba_Cs3_1_fortissimo_normal.mp3|-38.100376,-0.3945394,0,0,tuba/tuba_Cs3_1_mezzo-forte_normal.mp3|-22.416721,-21.443674,0,0,tuba/tuba_Cs3_1_mezzo-piano_normal.mp3|-36.473232,-0.40495175,0,0,tuba/tuba_Cs3_1_pianissimo_mute.mp3|-21.906792,-21.980724,0,0,tuba/tuba_Cs3_1_pianissimo_normal.mp3|-6.7284255,-27.86517,0,0,tuba/tuba_Cs3_1_piano_mute.mp3|-25.648388,-20.663717,0,0,tuba/tuba_Cs3_1_piano_normal.mp3|-19.886312,-19.877748,0,0,tuba/tuba_Cs3_phrase_pianissimo_normal.mp3|-42.583168,6.3788214,0,0,tuba/tuba_Cs4_025_forte_normal.mp3|-41.9003,6.0836296,0,0,tuba/tuba_Cs4_025_fortissimo_normal.mp3|-41.021584,5.898703,0,0,tuba/tuba_Cs4_025_mezzo-forte_normal.mp3|-41.548706,6.732013,0,0,tuba/tuba_Cs4_025_mezzo-piano_normal.mp3|-41.97537,7.6869035,0,0,tuba/tuba_Cs4_025_pianissimo_normal.mp3|18.663725,-26.690842,0,0,tuba/tuba_Cs4_025_piano_normal.mp3|-38.748207,4.815337,0,0,tuba/tuba_Cs4_05_forte_normal.mp3|-38.301754,4.770304,0,0,tuba/tuba_Cs4_05_fortissimo_normal.mp3|-39.98523,5.426391,0,0,tuba/tuba_Cs4_05_mezzo-forte_normal.mp3|-39.792034,6.053539,0,0,tuba/tuba_Cs4_05_mezzo-piano_normal.mp3|-40.467903,6.743614,0,0,tuba/tuba_Cs4_05_pianissimo_normal.mp3|-41.69701,-12.342846,0,0,tuba/tuba_Cs4_05_piano_normal.mp3|-35.872086,2.7304857,0,0,tuba/tuba_Cs4_15_forte_normal.mp3|-34.916275,2.1671407,0,0,tuba/tuba_Cs4_15_fortissimo_normal.mp3|-35.97486,3.0450346,0,0,tuba/tuba_Cs4_15_mezzo-forte_normal.mp3|-35.4624,3.4873552,0,0,tuba/tuba_Cs4_15_mezzo-piano_normal.mp3|-35.87335,3.8488894,0,0,tuba/tuba_Cs4_15_pianissimo_normal.mp3|-44.2956,-15.680742,0,0,tuba/tuba_Cs4_15_piano_normal.mp3|-36.7103,3.4551387,0,0,tuba/tuba_Cs4_1_forte_normal.mp3|-37.094757,3.9317873,0,0,tuba/tuba_Cs4_1_fortissimo_normal.mp3|-39.306747,5.656182,0,0,tuba/tuba_Cs4_1_mezzo-forte_normal.mp3|-37.763927,5.895146,0,0,tuba/tuba_Cs4_1_mezzo-piano_normal.mp3|-38.296967,6.4332094,0,0,tuba/tuba_Cs4_1_pianissimo_normal.mp3|-42.03091,-13.676335,0,0,tuba/tuba_Cs4_1_piano_normal.mp3|-14.410947,0.75038654,0,0,tuba/tuba_D1_long_forte_normal.mp3|-13.7465925,-8.5325365,0,0,tuba/tuba_D1_long_pianissimo_normal.mp3|-14.529457,-7.490771,0,0,tuba/tuba_D1_long_piano_normal.mp3|-9.101657,36.74628,0,0,tuba/tuba_D2_025_forte_normal.mp3|-23.189548,27.737297,0,0,tuba/tuba_D2_025_fortissimo_normal.mp3|-29.254698,20.399141,0,0,tuba/tuba_D2_025_mezzo-forte_normal.mp3|-30.477749,20.752966,0,0,tuba/tuba_D2_025_mezzo-piano_normal.mp3|-3.0770357,-28.976273,0,0,tuba/tuba_D2_025_pianissimo_normal.mp3|6.1040063,2.9138277,0,0,tuba/tuba_D2_025_piano_normal.mp3|-29.00079,18.749989,0,0,tuba/tuba_D2_05_forte_normal.mp3|-9.422621,28.933771,0,0,tuba/tuba_D2_05_fortissimo_normal.mp3|-29.231968,19.839544,0,0,tuba/tuba_D2_05_mezzo-forte_normal.mp3|-27.499979,-17.030964,0,0,tuba/tuba_D2_05_mezzo-piano_normal.mp3|-0.3706506,-30.640253,0,0,tuba/tuba_D2_05_pianissimo_normal.mp3|6.5247626,2.226043,0,0,tuba/tuba_D2_05_piano_normal.mp3|0.7972462,-31.217539,0,0,tuba/tuba_D2_15_mezzo-piano_normal.mp3|-24.453873,-18.192852,0,0,tuba/tuba_D2_15_pianissimo_normal.mp3|7.8001356,-0.2908863,0,0,tuba/tuba_D2_15_piano_normal.mp3|-28.835844,18.123455,0,0,tuba/tuba_D2_1_forte_normal.mp3|-17.435999,0.97430587,0,0,tuba/tuba_D2_1_forte_tremolo.mp3|-28.952234,20.688686,0,0,tuba/tuba_D2_1_fortissimo_normal.mp3|-26.977169,-16.969727,0,0,tuba/tuba_D2_1_mezzo-forte_normal.mp3|0.15974452,-30.845808,0,0,tuba/tuba_D2_1_mezzo-piano_normal.mp3|-0.9324826,-30.57243,0,0,tuba/tuba_D2_1_pianissimo_normal.mp3|6.8714104,1.7374691,0,0,tuba/tuba_D2_1_piano_normal.mp3|7.8736305,21.127613,0,0,tuba/tuba_D3_025_forte_normal.mp3|-41.059345,-9.618033,0,0,tuba/tuba_D3_025_fortissimo_normal.mp3|-42.993603,-15.941638,0,0,tuba/tuba_D3_025_mezzo-forte_normal.mp3|-38.598564,-13.558758,0,0,tuba/tuba_D3_025_mezzo-piano_normal.mp3|-4.6579294,-26.58726,0,0,tuba/tuba_D3_025_pianissimo_normal.mp3|5.1929336,5.6496153,0,0,tuba/tuba_D3_025_piano_normal.mp3|8.376768,21.966568,0,0,tuba/tuba_D3_05_forte_normal.mp3|-41.598347,-14.834539,0,0,tuba/tuba_D3_05_fortissimo_normal.mp3|-39.6149,-14.439395,0,0,tuba/tuba_D3_05_mezzo-forte_normal.mp3|-38.99032,-15.039247,0,0,tuba/tuba_D3_05_mezzo-piano_normal.mp3|-26.477053,-20.723581,0,0,tuba/tuba_D3_05_pianissimo_normal.mp3|6.5843306,8.751716,0,0,tuba/tuba_D3_05_piano_normal.mp3|8.650344,23.20589,0,0,tuba/tuba_D3_15_fortissimo_normal.mp3|-40.089638,-13.919093,0,0,tuba/tuba_D3_15_mezzo-forte_normal.mp3|-28.432749,-20.846376,0,0,tuba/tuba_D3_15_mezzo-piano_normal.mp3|-24.30071,-19.467491,0,0,tuba/tuba_D3_15_pianissimo_normal.mp3|4.966256,9.718508,0,0,tuba/tuba_D3_15_piano_normal.mp3|-44.04532,-16.597683,0,0,tuba/tuba_D3_1_fortissimo_normal.mp3|-40.47394,-10.183566,0,0,tuba/tuba_D3_1_mezzo-forte_normal.mp3|-3.978357,-27.387327,0,0,tuba/tuba_D3_1_mezzo-piano_normal.mp3|-26.20814,-20.57027,0,0,tuba/tuba_D3_1_pianissimo_normal.mp3|6.1936383,9.1374445,0,0,tuba/tuba_D3_1_piano_normal.mp3|-31.381752,0.48905066,0,0,tuba/tuba_D3_long_forte_glissando.mp3|-42.269466,-10.2681055,0,0,tuba/tuba_D4_025_forte_normal.mp3|-42.02854,-9.71545,0,0,tuba/tuba_D4_025_fortissimo_normal.mp3|-42.374565,-10.629893,0,0,tuba/tuba_D4_025_mezzo-forte_normal.mp3|17.854662,-28.360418,0,0,tuba/tuba_D4_025_mezzo-piano_normal.mp3|-41.702194,-10.94165,0,0,tuba/tuba_D4_025_pianissimo_normal.mp3|16.946733,-26.91921,0,0,tuba/tuba_D4_025_piano_normal.mp3|-42.670597,-12.755682,0,0,tuba/tuba_D4_05_forte_normal.mp3|-43.45331,-14.044511,0,0,tuba/tuba_D4_05_fortissimo_normal.mp3|-42.54438,-12.23914,0,0,tuba/tuba_D4_05_mezzo-forte_normal.mp3|-40.62585,-12.662292,0,0,tuba/tuba_D4_05_mezzo-piano_normal.mp3|-41.608757,-12.852751,0,0,tuba/tuba_D4_05_pianissimo_normal.mp3|9.388314,20.513908,0,0,tuba/tuba_D4_05_piano_normal.mp3|-42.829487,-14.501928,0,0,tuba/tuba_D4_15_forte_normal.mp3|-45.060875,-16.5165,0,0,tuba/tuba_D4_15_fortissimo_normal.mp3|-43.65956,-15.111483,0,0,tuba/tuba_D4_15_mezzo-piano_normal.mp3|5.8459506,16.994019,0,0,tuba/tuba_D4_15_piano_normal.mp3|-42.86512,-13.955802,0,0,tuba/tuba_D4_1_forte_normal.mp3|-44.96646,-15.644843,0,0,tuba/tuba_D4_1_fortissimo_normal.mp3|-44.227592,-14.964851,0,0,tuba/tuba_D4_1_mezzo-forte_normal.mp3|-42.11529,-11.73171,0,0,tuba/tuba_D4_1_mezzo-piano_normal.mp3|-44.46896,-14.648777,0,0,tuba/tuba_D4_1_pianissimo_normal.mp3|9.099714,19.650204,0,0,tuba/tuba_D4_1_piano_normal.mp3|-8.198011,28.813168,0,0,tuba/tuba_Ds2_025_forte_normal.mp3|-9.104368,36.605213,0,0,tuba/tuba_Ds2_025_fortissimo_normal.mp3|-9.163544,37.46143,0,0,tuba/tuba_Ds2_025_mezzo-forte_normal.mp3|16.503315,-7.441378,0,0,tuba/tuba_Ds2_025_mezzo-piano_normal.mp3|16.653246,-8.372944,0,0,tuba/tuba_Ds2_025_pianissimo_normal.mp3|13.277627,-3.1531181,0,0,tuba/tuba_Ds2_025_piano_normal.mp3|-5.6041403,29.299603,0,0,tuba/tuba_Ds2_05_forte_normal.mp3|-9.365888,38.87125,0,0,tuba/tuba_Ds2_05_fortissimo_normal.mp3|-9.902054,39.27048,0,0,tuba/tuba_Ds2_05_mezzo-forte_normal.mp3|16.680733,-6.8060045,0,0,tuba/tuba_Ds2_05_mezzo-piano_normal.mp3|10.871073,-3.2123654,0,0,tuba/tuba_Ds2_05_pianissimo_normal.mp3|11.984741,-1.6003975,0,0,tuba/tuba_Ds2_05_piano_normal.mp3|-12.771593,39.669975,0,0,tuba/tuba_Ds2_15_fortissimo_normal.mp3|9.250514,-2.355406,0,0,tuba/tuba_Ds2_15_mezzo-piano_normal.mp3|8.151382,-0.5328909,0,0,tuba/tuba_Ds2_15_pianissimo_normal.mp3|9.067993,0.18479727,0,0,tuba/tuba_Ds2_15_piano_normal.mp3|-9.82792,38.923492,0,0,tuba/tuba_Ds2_1_forte_normal.mp3|-16.658613,1.4523202,0,0,tuba/tuba_Ds2_1_forte_tremolo.mp3|-11.9897785,39.53549,0,0,tuba/tuba_Ds2_1_fortissimo_normal.mp3|-12.593996,39.582153,0,0,tuba/tuba_Ds2_1_mezzo-forte_normal.mp3|16.18964,-6.868685,0,0,tuba/tuba_Ds2_1_mezzo-piano_normal.mp3|10.543443,-2.981501,0,0,tuba/tuba_Ds2_1_pianissimo_normal.mp3|11.828985,-1.3556567,0,0,tuba/tuba_Ds2_1_piano_normal.mp3|-10.596401,2.0605195,0,0,tuba/tuba_Ds2_long_forte_major-trill.mp3|-10.631994,2.0941224,0,0,tuba/tuba_Ds2_long_forte_minor-trill.mp3|-10.419835,-2.5156868,0,0,tuba/tuba_Ds2_very-long_cresc-decresc_normal.mp3|4.072096,27.490942,0,0,tuba/tuba_Ds3_025_forte_normal.mp3|6.834907,20.145472,0,0,tuba/tuba_Ds3_025_fortissimo_normal.mp3|7.88713,22.297615,0,0,tuba/tuba_Ds3_025_mezzo-forte_normal.mp3|5.0405593,6.349201,0,0,tuba/tuba_Ds3_025_mezzo-piano_normal.mp3|5.092863,5.0183225,0,0,tuba/tuba_Ds3_025_pianissimo_normal.mp3|14.638338,8.30191,0,0,tuba/tuba_Ds3_025_piano_normal.mp3|-1.231164,14.861406,0,0,tuba/tuba_Ds3_05_forte_minor-trill.mp3|4.0350585,26.73501,0,0,tuba/tuba_Ds3_05_forte_normal.mp3|8.225598,21.985939,0,0,tuba/tuba_Ds3_05_fortissimo_normal.mp3|6.7263207,10.905247,0,0,tuba/tuba_Ds3_05_mezzo-forte_normal.mp3|6.785346,11.143162,0,0,tuba/tuba_Ds3_05_mezzo-piano_normal.mp3|5.994294,6.703446,0,0,tuba/tuba_Ds3_05_pianissimo_normal.mp3|11.4772,7.261086,0,0,tuba/tuba_Ds3_05_piano_normal.mp3|5.1423597,13.11789,0,0,tuba/tuba_Ds3_15_mezzo-forte_normal.mp3|5.0998816,10.962182,0,0,tuba/tuba_Ds3_15_mezzo-piano_normal.mp3|4.8235497,9.406475,0,0,tuba/tuba_Ds3_15_pianissimo_normal.mp3|9.964291,6.4156995,0,0,tuba/tuba_Ds3_15_piano_normal.mp3|6.593251,19.74299,0,0,tuba/tuba_Ds3_1_fortissimo_normal.mp3|4.695732,11.641297,0,0,tuba/tuba_Ds3_1_mezzo-forte_normal.mp3|5.6970143,6.415115,0,0,tuba/tuba_Ds3_1_mezzo-piano_normal.mp3|6.28062,8.482199,0,0,tuba/tuba_Ds3_1_pianissimo_normal.mp3|10.488877,6.909354,0,0,tuba/tuba_Ds3_1_piano_normal.mp3|-1.050805,14.976956,0,0,tuba/tuba_Ds3_long_forte_major-trill.mp3|-1.6811926,14.544943,0,0,tuba/tuba_Ds3_long_forte_minor-trill.mp3|1.3646094,12.880783,0,0,tuba/tuba_Ds3_long_mezzo-forte_vibrato.mp3|4.2198477,7.7139683,0,0,tuba/tuba_Ds3_phrase_mezzo-piano_normal.mp3|1.3482722,12.637536,0,0,tuba/tuba_Ds3_very-long_cresc-decresc_normal.mp3|10.602129,23.430344,0,0,tuba/tuba_Ds4_025_forte_normal.mp3|10.659495,23.463154,0,0,tuba/tuba_Ds4_025_fortissimo_normal.mp3|6.9279943,15.949174,0,0,tuba/tuba_Ds4_025_mezzo-forte_normal.mp3|17.852404,-26.228924,0,0,tuba/tuba_Ds4_025_mezzo-piano_normal.mp3|16.310686,-27.160536,0,0,tuba/tuba_Ds4_025_pianissimo_normal.mp3|4.047871,31.124746,0,0,tuba/tuba_Ds4_025_piano_normal.mp3|3.2087827,16.792223,0,0,tuba/tuba_Ds4_05_forte_mute.mp3|8.223275,18.988674,0,0,tuba/tuba_Ds4_05_forte_normal.mp3|7.7181764,18.513552,0,0,tuba/tuba_Ds4_05_fortissimo_normal.mp3|5.829693,29.894688,0,0,tuba/tuba_Ds4_05_mezzo-forte_normal.mp3|9.436627,20.355293,0,0,tuba/tuba_Ds4_05_mezzo-piano_normal.mp3|9.8702,20.26687,0,0,tuba/tuba_Ds4_05_pianissimo_normal.mp3|3.5728216,30.496277,0,0,tuba/tuba_Ds4_05_piano_normal.mp3|5.166556,17.786755,0,0,tuba/tuba_Ds4_15_forte_normal.mp3|4.897098,17.244375,0,0,tuba/tuba_Ds4_15_fortissimo_normal.mp3|5.1644826,16.722607,0,0,tuba/tuba_Ds4_15_mezzo-forte_normal.mp3|6.741677,17.144085,0,0,tuba/tuba_Ds4_15_mezzo-piano_normal.mp3|5.5947547,16.568619,0,0,tuba/tuba_Ds4_15_pianissimo_normal.mp3|1.0008743,27.507023,0,0,tuba/tuba_Ds4_15_piano_normal.mp3|6.575445,17.823648,0,0,tuba/tuba_Ds4_1_forte_normal.mp3|2.952634,16.834028,0,0,tuba/tuba_Ds4_1_fortissimo_mute.mp3|7.300787,17.845087,0,0,tuba/tuba_Ds4_1_fortissimo_normal.mp3|8.450135,18.325779,0,0,tuba/tuba_Ds4_1_mezzo-forte_normal.mp3|10.124491,18.593296,0,0,tuba/tuba_Ds4_1_mezzo-piano_normal.mp3|10.123734,18.845646,0,0,tuba/tuba_Ds4_1_pianissimo_normal.mp3|2.6471121,29.85979,0,0,tuba/tuba_Ds4_1_piano_normal.mp3|0.7985848,16.258318,0,0,tuba/tuba_Ds4_long_forte_major-trill.mp3|1.0701714,16.248224,0,0,tuba/tuba_Ds4_long_forte_minor-trill.mp3|2.662972,15.714303,0,0,tuba/tuba_Ds4_long_mezzo-forte_vibrato.mp3|2.0044994,14.378155,0,0,tuba/tuba_Ds4_very-long_cresc-decresc_normal.mp3|-6.7638836,-35.70629,0,0,tuba/tuba_E1_05_pianissimo_mute.mp3|-7.9154825,-35.259705,0,0,tuba/tuba_E1_1_pianissimo_mute.mp3|-14.204842,-1.5397817,0,0,tuba/tuba_E1_long_forte_glissando.mp3|-15.598743,-0.5114141,0,0,tuba/tuba_E1_long_forte_major-trill.mp3|-33.86692,31.41882,0,0,tuba/tuba_E2_025_forte_normal.mp3|-5.108664,31.031435,0,0,tuba/tuba_E2_025_fortissimo_normal.mp3|-7.8439593,28.745754,0,0,tuba/tuba_E2_025_mezzo-forte_normal.mp3|13.162753,-2.8264163,0,0,tuba/tuba_E2_025_mezzo-piano_normal.mp3|16.632185,-8.200338,0,0,tuba/tuba_E2_025_pianissimo_normal.mp3|17.815477,4.027836,0,0,tuba/tuba_E2_025_piano_normal.mp3|-5.6831717,26.814957,0,0,tuba/tuba_E2_05_forte_normal.mp3|-5.560704,29.360567,0,0,tuba/tuba_E2_05_fortissimo_normal.mp3|-5.407089,29.77815,0,0,tuba/tuba_E2_05_mezzo-forte_normal.mp3|17.724684,-10.174386,0,0,tuba/tuba_E2_05_mezzo-piano_normal.mp3|14.281499,-4.85597,0,0,tuba/tuba_E2_05_pianissimo_normal.mp3|17.04606,3.106903,0,0,tuba/tuba_E2_05_piano_normal.mp3|-4.156142,26.750145,0,0,tuba/tuba_E2_15_fortissimo_normal.mp3|10.063197,-0.84983057,0,0,tuba/tuba_E2_15_mezzo-piano_normal.mp3|9.37104,-0.23486263,0,0,tuba/tuba_E2_15_pianissimo_normal.mp3|14.207696,2.0645149,0,0,tuba/tuba_E2_15_piano_normal.mp3|-4.3786445,26.92634,0,0,tuba/tuba_E2_1_forte_normal.mp3|-12.180853,2.1288655,0,0,tuba/tuba_E2_1_forte_tremolo.mp3|9.599617,2.8554623,0,0,tuba/tuba_E2_1_fortissimo_mute.mp3|-4.5563445,27.004057,0,0,tuba/tuba_E2_1_fortissimo_normal.mp3|9.707936,-0.112847894,0,0,tuba/tuba_E2_1_mezzo-forte_normal.mp3|14.659085,-5.269723,0,0,tuba/tuba_E2_1_mezzo-piano_normal.mp3|11.125118,-1.6834795,0,0,tuba/tuba_E2_1_pianissimo_normal.mp3|16.66914,2.66458,0,0,tuba/tuba_E2_1_piano_normal.mp3|-30.37103,33.245426,0,0,tuba/tuba_E3_025_forte_normal.mp3|4.9559116,27.64143,0,0,tuba/tuba_E3_025_fortissimo_normal.mp3|4.509292,27.869852,0,0,tuba/tuba_E3_025_mezzo-forte_normal.mp3|9.799027,7.831956,0,0,tuba/tuba_E3_025_mezzo-piano_normal.mp3|14.74372,8.295707,0,0,tuba/tuba_E3_025_pianissimo_normal.mp3|15.969325,6.762858,0,0,tuba/tuba_E3_025_piano_normal.mp3|-38.764282,27.30517,0,0,tuba/tuba_E3_05_forte_mute.mp3|-31.162863,32.940556,0,0,tuba/tuba_E3_05_forte_normal.mp3|3.7438838,27.135523,0,0,tuba/tuba_E3_05_fortissimo_normal.mp3|13.422844,10.069484,0,0,tuba/tuba_E3_05_mezzo-forte_normal.mp3|12.983235,9.454359,0,0,tuba/tuba_E3_05_mezzo-piano_normal.mp3|12.363712,7.3601995,0,0,tuba/tuba_E3_05_pianissimo_normal.mp3|16.0424,5.857816,0,0,tuba/tuba_E3_05_piano_normal.mp3|-0.88210094,25.914011,0,0,tuba/tuba_E3_15_fortissimo_normal.mp3|9.695901,7.4375415,0,0,tuba/tuba_E3_15_mezzo-piano_normal.mp3|10.001107,6.1782885,0,0,tuba/tuba_E3_15_pianissimo_normal.mp3|13.36202,2.828021,0,0,tuba/tuba_E3_15_piano_normal.mp3|-0.6377819,26.13752,0,0,tuba/tuba_E3_1_fortissimo_normal.mp3|9.100005,6.5471044,0,0,tuba/tuba_E3_1_mezzo-forte_normal.mp3|12.86597,9.512982,0,0,tuba/tuba_E3_1_mezzo-piano_normal.mp3|12.348438,7.4599996,0,0,tuba/tuba_E3_1_pianissimo_normal.mp3|16.208672,5.943589,0,0,tuba/tuba_E3_1_piano_normal.mp3|-1.2920051,17.039873,0,0,tuba/tuba_E3_long_forte_glissando.mp3|5.3557186,29.640455,0,0,tuba/tuba_E4_025_forte_normal.mp3|4.5443964,29.619276,0,0,tuba/tuba_E4_025_fortissimo_normal.mp3|4.896017,30.055042,0,0,tuba/tuba_E4_025_mezzo-forte_normal.mp3|4.968281,30.743021,0,0,tuba/tuba_E4_025_mezzo-piano_normal.mp3|3.4226046,31.627058,0,0,tuba/tuba_E4_025_pianissimo_normal.mp3|17.146688,-24.579601,0,0,tuba/tuba_E4_025_piano_normal.mp3|-30.272455,35.610363,0,0,tuba/tuba_E4_05_forte_normal.mp3|1.6344509,28.700382,0,0,tuba/tuba_E4_05_fortissimo_normal.mp3|2.9214408,29.10903,0,0,tuba/tuba_E4_05_mezzo-forte_normal.mp3|3.9269745,29.989542,0,0,tuba/tuba_E4_05_mezzo-piano_normal.mp3|3.2666786,32.314686,0,0,tuba/tuba_E4_05_pianissimo_normal.mp3|-32.90395,36.120796,0,0,tuba/tuba_E4_05_piano_normal.mp3|-39.86019,33.410843,0,0,tuba/tuba_E4_15_forte_normal.mp3|-0.9961918,17.295721,0,0,tuba/tuba_E4_15_fortissimo_normal.mp3|0.68289804,26.923176,0,0,tuba/tuba_E4_15_mezzo-forte_normal.mp3|0.58866924,27.739027,0,0,tuba/tuba_E4_15_mezzo-piano_normal.mp3|-40.191856,32.016968,0,0,tuba/tuba_E4_15_piano_normal.mp3|-37.301,33.102726,0,0,tuba/tuba_E4_1_forte_normal.mp3|1.1751146,28.096064,0,0,tuba/tuba_E4_1_fortissimo_normal.mp3|2.1267724,28.922615,0,0,tuba/tuba_E4_1_mezzo-forte_normal.mp3|0.9033525,29.430819,0,0,tuba/tuba_E4_1_mezzo-piano_normal.mp3|2.0099535,29.643366,0,0,tuba/tuba_E4_1_pianissimo_normal.mp3|-35.667015,33.27505,0,0,tuba/tuba_E4_1_piano_normal.mp3|-21.776548,28.981949,0,0,tuba/tuba_F1_025_fortissimo_normal.mp3|-20.108198,28.028461,0,0,tuba/tuba_F1_025_mezzo-forte_normal.mp3|11.832959,-27.855972,0,0,tuba/tuba_F1_025_mezzo-piano_normal.mp3|-5.888268,-31.281647,0,0,tuba/tuba_F1_025_pianissimo_normal.mp3|-9.014894,-26.555645,0,0,tuba/tuba_F1_025_piano_normal.mp3|-17.974327,10.596067,0,0,tuba/tuba_F1_05_forte_normal.mp3|-19.871248,27.244062,0,0,tuba/tuba_F1_05_fortissimo_normal.mp3|-10.235189,-35.940624,0,0,tuba/tuba_F1_05_mezzo-forte_normal.mp3|-7.50104,-36.438038,0,0,tuba/tuba_F1_05_mezzo-piano_normal.mp3|-6.123124,-31.295662,0,0,tuba/tuba_F1_05_pianissimo_normal.mp3|-15.066548,-28.07985,0,0,tuba/tuba_F1_05_piano_normal.mp3|-15.978355,-17.157701,0,0,tuba/tuba_F1_15_mezzo-piano_normal.mp3|-15.963277,-17.519506,0,0,tuba/tuba_F1_15_pianissimo_normal.mp3|-17.264606,-18.04284,0,0,tuba/tuba_F1_15_piano_normal.mp3|-20.68093,0.619965,0,0,tuba/tuba_F1_1_forte_mute.mp3|-17.975025,9.899296,0,0,tuba/tuba_F1_1_fortissimo_normal.mp3|-16.955181,-17.29085,0,0,tuba/tuba_F1_1_mezzo-forte_normal.mp3|-9.815973,-35.52424,0,0,tuba/tuba_F1_1_mezzo-piano_normal.mp3|-9.41225,-35.05559,0,0,tuba/tuba_F1_1_pianissimo_normal.mp3|-16.668182,-24.284893,0,0,tuba/tuba_F1_1_piano_normal.mp3|-4.6943994,2.8637636,0,0,tuba/tuba_F1_phrase_mezzo-forte_staccato.mp3|-12.026811,0.5108625,0,0,tuba/tuba_F1_phrase_mezzo-forte_tenuto.mp3|-31.28709,15.2084255,0,0,tuba/tuba_F2_025_forte_normal.mp3|-28.938654,34.10322,0,0,tuba/tuba_F2_025_fortissimo_normal.mp3|18.764273,0.6071819,0,0,tuba/tuba_F2_025_mezzo-forte_normal.mp3|19.709478,-11.229226,0,0,tuba/tuba_F2_025_mezzo-piano_normal.mp3|19.67641,-11.224784,0,0,tuba/tuba_F2_025_pianissimo_normal.mp3|-31.282541,14.380522,0,0,tuba/tuba_F2_05_forte_normal.mp3|-33.302853,32.670834,0,0,tuba/tuba_F2_05_fortissimo_normal.mp3|18.450483,1.7828014,0,0,tuba/tuba_F2_05_mezzo-forte_normal.mp3|18.643942,-0.68993944,0,0,tuba/tuba_F2_05_mezzo-piano_normal.mp3|17.416676,1.0957286,0,0,tuba/tuba_F2_05_pianissimo_normal.mp3|20.896557,3.1184363,0,0,tuba/tuba_F2_05_piano_normal.mp3|-37.011406,30.584242,0,0,tuba/tuba_F2_15_forte_normal.mp3|-37.87895,31.08613,0,0,tuba/tuba_F2_15_fortissimo_normal.mp3|14.692164,0.92266154,0,0,tuba/tuba_F2_15_mezzo-forte_normal.mp3|15.988985,0.32809266,0,0,tuba/tuba_F2_15_mezzo-piano_normal.mp3|15.8805685,0.7622013,0,0,tuba/tuba_F2_15_pianissimo_normal.mp3|-36.076763,30.762444,0,0,tuba/tuba_F2_1_forte_normal.mp3|-37.302654,31.064306,0,0,tuba/tuba_F2_1_fortissimo_normal.mp3|17.19159,1.5346577,0,0,tuba/tuba_F2_1_mezzo-forte_normal.mp3|18.580427,-0.5057504,0,0,tuba/tuba_F2_1_mezzo-piano_normal.mp3|16.683163,1.1908635,0,0,tuba/tuba_F2_1_pianissimo_normal.mp3|7.2848506,-6.1389966,0,0,tuba/tuba_F2_1_piano_normal.mp3|-24.76997,20.622406,0,0,tuba/tuba_F3_025_forte_normal.mp3|-30.052536,33.7341,0,0,tuba/tuba_F3_025_fortissimo_normal.mp3|-31.132576,33.76647,0,0,tuba/tuba_F3_025_mezzo-forte_normal.mp3|-30.29405,32.062786,0,0,tuba/tuba_F3_025_mezzo-piano_normal.mp3|15.704847,7.8285136,0,0,tuba/tuba_F3_025_pianissimo_normal.mp3|-20.658104,19.448154,0,0,tuba/tuba_F3_025_piano_normal.mp3|-33.2363,33.59775,0,0,tuba/tuba_F3_05_forte_normal.mp3|-31.651917,32.438625,0,0,tuba/tuba_F3_05_fortissimo_normal.mp3|-36.91016,28.388369,0,0,tuba/tuba_F3_05_mezzo-forte_normal.mp3|-34.408806,28.723349,0,0,tuba/tuba_F3_05_mezzo-piano_normal.mp3|16.124622,5.2332506,0,0,tuba/tuba_F3_05_pianissimo_normal.mp3|-20.814579,18.554049,0,0,tuba/tuba_F3_05_piano_normal.mp3|-39.420567,31.734032,0,0,tuba/tuba_F3_15_forte_normal.mp3|-38.528084,30.390554,0,0,tuba/tuba_F3_15_fortissimo_normal.mp3|-38.32671,29.896202,0,0,tuba/tuba_F3_15_mezzo-forte_normal.mp3|-37.460182,28.33096,0,0,tuba/tuba_F3_15_mezzo-piano_normal.mp3|13.315027,2.6524808,0,0,tuba/tuba_F3_15_pianissimo_normal.mp3|-21.416584,15.635741,0,0,tuba/tuba_F3_15_piano_normal.mp3|-37.19397,32.147156,0,0,tuba/tuba_F3_1_forte_normal.mp3|-11.149734,6.7783656,0,0,tuba/tuba_F3_1_forte_tremolo.mp3|-40.529213,31.40307,0,0,tuba/tuba_F3_1_fortissimo_mute.mp3|-37.702694,30.25355,0,0,tuba/tuba_F3_1_fortissimo_normal.mp3|-37.76038,29.240143,0,0,tuba/tuba_F3_1_mezzo-forte_normal.mp3|-31.3626,31.317041,0,0,tuba/tuba_F3_1_mezzo-piano_normal.mp3|-39.41292,27.726154,0,0,tuba/tuba_F3_1_pianissimo_mute.mp3|15.850778,4.5685663,0,0,tuba/tuba_F3_1_pianissimo_normal.mp3|-20.6044,18.583786,0,0,tuba/tuba_F3_1_piano_normal.mp3|-10.964232,7.281262,0,0,tuba/tuba_F3_long_forte_minor-trill.mp3|-34.35703,36.397705,0,0,tuba/tuba_F4_025_forte_normal.mp3|-31.143675,35.27173,0,0,tuba/tuba_F4_025_fortissimo_normal.mp3|-32.441574,35.34648,0,0,tuba/tuba_F4_025_mezzo-forte_normal.mp3|17.60396,-25.264765,0,0,tuba/tuba_F4_025_mezzo-piano_normal.mp3|-30.559334,36.228188,0,0,tuba/tuba_F4_025_pianissimo_normal.mp3|-30.300402,35.2346,0,0,tuba/tuba_F4_05_forte_normal.mp3|-34.441765,34.23779,0,0,tuba/tuba_F4_05_fortissimo_normal.mp3|-33.70286,34.543743,0,0,tuba/tuba_F4_05_mezzo-forte_normal.mp3|-34.401474,32.949486,0,0,tuba/tuba_F4_05_mezzo-piano_normal.mp3|-32.518127,34.72,0,0,tuba/tuba_F4_05_pianissimo_normal.mp3|-35.922386,35.347404,0,0,tuba/tuba_F4_15_forte_normal.mp3|-39.712273,33.666576,0,0,tuba/tuba_F4_15_fortissimo_normal.mp3|-40.56338,33.459396,0,0,tuba/tuba_F4_15_mezzo-forte_normal.mp3|-40.351437,32.68333,0,0,tuba/tuba_F4_15_mezzo-piano_normal.mp3|-39.20044,32.42504,0,0,tuba/tuba_F4_15_pianissimo_normal.mp3|-34.792023,35.178997,0,0,tuba/tuba_F4_1_forte_normal.mp3|-37.818962,32.9297,0,0,tuba/tuba_F4_1_fortissimo_normal.mp3|-35.757164,34.117367,0,0,tuba/tuba_F4_1_mezzo-forte_normal.mp3|-32.9539,34.85708,0,0,tuba/tuba_F4_1_mezzo-piano_normal.mp3|-35.154938,33.711735,0,0,tuba/tuba_F4_1_pianissimo_normal.mp3|-19.909672,27.851015,0,0,tuba/tuba_Fs1_025_forte_normal.mp3|-20.056616,30.228,0,0,tuba/tuba_Fs1_025_fortissimo_normal.mp3|-20.02866,30.263014,0,0,tuba/tuba_Fs1_025_mezzo-forte_normal.mp3|-6.2520676,-32.42618,0,0,tuba/tuba_Fs1_025_pianissimo_normal.mp3|-14.1486025,-32.9036,0,0,tuba/tuba_Fs1_025_piano_normal.mp3|-12.764163,27.039438,0,0,tuba/tuba_Fs1_05_forte_normal.mp3|-18.003065,12.594549,0,0,tuba/tuba_Fs1_05_fortissimo_normal.mp3|-13.528674,-33.707718,0,0,tuba/tuba_Fs1_05_mezzo-forte_normal.mp3|-3.9895506,-36.61872,0,0,tuba/tuba_Fs1_05_mezzo-piano_mute.mp3|-5.317725,-35.962357,0,0,tuba/tuba_Fs1_05_mezzo-piano_normal.mp3|-5.636746,-35.762745,0,0,tuba/tuba_Fs1_05_pianissimo_mute.mp3|-7.575704,-33.293304,0,0,tuba/tuba_Fs1_05_pianissimo_normal.mp3|-18.751104,-17.54595,0,0,tuba/tuba_Fs1_05_piano_normal.mp3|-13.229606,-16.568521,0,0,tuba/tuba_Fs1_15_pianissimo_normal.mp3|-17.348413,13.695238,0,0,tuba/tuba_Fs1_1_forte_normal.mp3|-15.7113495,0.8666361,0,0,tuba/tuba_Fs1_1_forte_tremolo.mp3|-17.992733,10.906916,0,0,tuba/tuba_Fs1_1_fortissimo_normal.mp3|-18.896437,-17.23963,0,0,tuba/tuba_Fs1_1_mezzo-forte_normal.mp3|-13.794779,-16.758163,0,0,tuba/tuba_Fs1_1_mezzo-piano_normal.mp3|-5.5812173,-35.005306,0,0,tuba/tuba_Fs1_1_pianissimo_mute.mp3|-12.539485,-16.567884,0,0,tuba/tuba_Fs1_1_pianissimo_normal.mp3|-4.8066187,-36.316143,0,0,tuba/tuba_Fs1_1_piano_mute.mp3|-15.170887,-2.3181539,0,0,tuba/tuba_Fs1_long_forte_glissando.mp3|-15.510341,-0.5483168,0,0,tuba/tuba_Fs1_long_forte_minor-trill.mp3|22.714466,15.992424,0,0,tuba/tuba_Fs2_025_forte_normal.mp3|-26.229862,22.451372,0,0,tuba/tuba_Fs2_025_fortissimo_normal.mp3|-34.311554,12.166387,0,0,tuba/tuba_Fs2_025_mezzo-forte_normal.mp3|21.554197,-22.194645,0,0,tuba/tuba_Fs2_025_mezzo-piano_normal.mp3|13.425927,-16.115252,0,0,tuba/tuba_Fs2_025_pianissimo_normal.mp3|-31.600956,14.132904,0,0,tuba/tuba_Fs2_05_forte_normal.mp3|-27.944887,11.959238,0,0,tuba/tuba_Fs2_05_fortissimo_normal.mp3|-32.55226,12.662584,0,0,tuba/tuba_Fs2_05_mezzo-forte_normal.mp3|-14.228846,-32.10394,0,0,tuba/tuba_Fs2_05_mezzo-piano_mute.mp3|23.473297,-19.42696,0,0,tuba/tuba_Fs2_05_mezzo-piano_normal.mp3|21.723486,0.67631775,0,0,tuba/tuba_Fs2_05_pianissimo_normal.mp3|24.681437,8.340683,0,0,tuba/tuba_Fs2_05_piano_normal.mp3|-28.422693,12.115049,0,0,tuba/tuba_Fs2_15_forte_normal.mp3|-28.979216,11.6330385,0,0,tuba/tuba_Fs2_15_mezzo-forte_normal.mp3|30.390001,-20.14145,0,0,tuba/tuba_Fs2_15_mezzo-piano_normal.mp3|7.154613,-7.0647025,0,0,tuba/tuba_Fs2_15_pianissimo_normal.mp3|-27.27646,10.159556,0,0,tuba/tuba_Fs2_1_forte_mute.mp3|-31.367205,14.149763,0,0,tuba/tuba_Fs2_1_forte_normal.mp3|-25.782495,13.003125,0,0,tuba/tuba_Fs2_1_fortissimo_mute.mp3|-28.281067,12.808051,0,0,tuba/tuba_Fs2_1_fortissimo_normal.mp3|-31.909739,13.175269,0,0,tuba/tuba_Fs2_1_mezzo-forte_normal.mp3|23.5014,-19.390467,0,0,tuba/tuba_Fs2_1_mezzo-piano_normal.mp3|21.679298,1.2281197,0,0,tuba/tuba_Fs2_1_pianissimo_normal.mp3|7.153152,-8.057972,0,0,tuba/tuba_Fs2_1_piano_normal.mp3|-9.81871,5.1043353,0,0,tuba/tuba_Fs2_long_forte_major-trill.mp3|-9.749021,4.891162,0,0,tuba/tuba_Fs2_long_forte_minor-trill.mp3|26.943636,-16.448565,0,0,tuba/tuba_Fs2_very-long_cresc-decresc_normal.mp3|-25.193945,20.968596,0,0,tuba/tuba_Fs3_025_forte_normal.mp3|-25.542877,21.15964,0,0,tuba/tuba_Fs3_025_fortissimo_normal.mp3|-25.10811,20.01197,0,0,tuba/tuba_Fs3_025_mezzo-forte_normal.mp3|-23.121674,19.330263,0,0,tuba/tuba_Fs3_025_mezzo-piano_normal.mp3|21.638275,-21.563004,0,0,tuba/tuba_Fs3_025_pianissimo_normal.mp3|28.18655,20.525179,0,0,tuba/tuba_Fs3_025_piano_normal.mp3|-25.501747,17.637316,0,0,tuba/tuba_Fs3_05_forte_normal.mp3|-24.64945,21.227545,0,0,tuba/tuba_Fs3_05_fortissimo_normal.mp3|-25.069551,17.823484,0,0,tuba/tuba_Fs3_05_mezzo-forte_normal.mp3|21.135387,2.168744,0,0,tuba/tuba_Fs3_05_mezzo-piano_mute.mp3|-23.438711,18.682638,0,0,tuba/tuba_Fs3_05_mezzo-piano_normal.mp3|-20.806955,19.352812,0,0,tuba/tuba_Fs3_05_pianissimo_normal.mp3|28.72808,16.454145,0,0,tuba/tuba_Fs3_05_piano_normal.mp3|-25.478743,16.171856,0,0,tuba/tuba_Fs3_15_forte_normal.mp3|-25.408419,13.835471,0,0,tuba/tuba_Fs3_15_fortissimo_normal.mp3|-23.0415,15.858628,0,0,tuba/tuba_Fs3_15_mezzo-forte_normal.mp3|-23.56352,15.842934,0,0,tuba/tuba_Fs3_15_mezzo-piano_normal.mp3|-21.412758,15.614042,0,0,tuba/tuba_Fs3_15_pianissimo_normal.mp3|28.04007,13.251546,0,0,tuba/tuba_Fs3_15_piano_normal.mp3|-25.133787,15.2571125,0,0,tuba/tuba_Fs3_1_forte_normal.mp3|-25.25696,16.874548,0,0,tuba/tuba_Fs3_1_fortissimo_normal.mp3|-24.016724,16.49423,0,0,tuba/tuba_Fs3_1_mezzo-forte_normal.mp3|20.918303,3.0920126,0,0,tuba/tuba_Fs3_1_mezzo-piano_mute.mp3|-23.844482,17.030663,0,0,tuba/tuba_Fs3_1_mezzo-piano_normal.mp3|-20.636593,17.990788,0,0,tuba/tuba_Fs3_1_pianissimo_normal.mp3|28.669884,14.864774,0,0,tuba/tuba_Fs3_1_piano_normal.mp3|-11.759089,8.163141,0,0,tuba/tuba_Fs3_long_forte_major-trill.mp3|-9.875924,10.735333,0,0,tuba/tuba_Fs3_long_forte_tremolo.mp3|-12.253373,8.532186,0,0,tuba/tuba_Fs3_long_mezzo-forte_vibrato.mp3|26.975216,-16.499645,0,0,tuba/tuba_Fs3_very-long_cresc-decresc_normal.mp3|-20.868105,30.44713,0,0,tuba/tuba_G1_025_forte_normal.mp3|-21.460289,30.045107,0,0,tuba/tuba_G1_025_fortissimo_normal.mp3|-17.733198,25.871449,0,0,tuba/tuba_G1_025_mezzo-forte_normal.mp3|11.461543,-27.899712,0,0,tuba/tuba_G1_025_mezzo-piano_normal.mp3|7.5826716,-23.68756,0,0,tuba/tuba_G1_025_pianissimo_normal.mp3|-12.163912,-14.104514,0,0,tuba/tuba_G1_025_piano_normal.mp3|-12.869498,26.98471,0,0,tuba/tuba_G1_05_forte_normal.mp3|-15.037841,24.93615,0,0,tuba/tuba_G1_05_fortissimo_normal.mp3|-14.636634,25.379217,0,0,tuba/tuba_G1_05_mezzo-forte_normal.mp3|10.264735,-28.96125,0,0,tuba/tuba_G1_05_mezzo-piano_normal.mp3|10.0407,-28.031086,0,0,tuba/tuba_G1_05_pianissimo_mute.mp3|6.807598,-23.307451,0,0,tuba/tuba_G1_05_pianissimo_normal.mp3|-10.445525,-16.894838,0,0,tuba/tuba_G1_05_piano_normal.mp3|-19.717907,6.5451803,0,0,tuba/tuba_G1_15_fortissimo_normal.mp3|9.592466,-30.103922,0,0,tuba/tuba_G1_15_mezzo-piano_normal.mp3|-11.752934,-14.622606,0,0,tuba/tuba_G1_15_pianissimo_normal.mp3|4.291581,-26.222412,0,0,tuba/tuba_G1_15_piano_normal.mp3|-19.937399,6.767516,0,0,tuba/tuba_G1_1_forte_normal.mp3|-17.409966,13.615251,0,0,tuba/tuba_G1_1_fortissimo_normal.mp3|-21.873213,-2.7368195,0,0,tuba/tuba_G1_1_mezzo-forte_normal.mp3|9.601562,-29.451084,0,0,tuba/tuba_G1_1_mezzo-piano_normal.mp3|8.498872,-29.75363,0,0,tuba/tuba_G1_1_pianissimo_mute.mp3|-11.516774,-16.283571,0,0,tuba/tuba_G1_1_pianissimo_normal.mp3|-12.974111,-14.111171,0,0,tuba/tuba_G1_1_piano_normal.mp3|-13.195979,-2.80986,0,0,tuba/tuba_G1_long_forte_glissando.mp3|-15.820352,1.4220409,0,0,tuba/tuba_G1_long_forte_minor-trill.mp3|18.234823,24.19839,0,0,tuba/tuba_G2_025_forte_normal.mp3|22.84365,16.88892,0,0,tuba/tuba_G2_025_fortissimo_normal.mp3|22.995668,16.92098,0,0,tuba/tuba_G2_025_mezzo-forte_normal.mp3|26.768305,7.2841744,0,0,tuba/tuba_G2_025_mezzo-piano_normal.mp3|12.792688,-15.827695,0,0,tuba/tuba_G2_025_pianissimo_normal.mp3|9.713195,-14.0417185,0,0,tuba/tuba_G2_025_piano_normal.mp3|24.165989,15.02719,0,0,tuba/tuba_G2_05_forte_normal.mp3|22.887684,15.609148,0,0,tuba/tuba_G2_05_fortissimo_normal.mp3|24.483389,14.867459,0,0,tuba/tuba_G2_05_mezzo-forte_normal.mp3|25.96619,10.169448,0,0,tuba/tuba_G2_05_mezzo-piano_normal.mp3|11.588401,-15.173712,0,0,tuba/tuba_G2_05_pianissimo_normal.mp3|8.783979,-12.759759,0,0,tuba/tuba_G2_05_piano_normal.mp3|26.09395,13.031913,0,0,tuba/tuba_G2_15_fortissimo_normal.mp3|26.972229,10.363732,0,0,tuba/tuba_G2_15_mezzo-piano_normal.mp3|6.7306714,-8.616546,0,0,tuba/tuba_G2_15_pianissimo_normal.mp3|6.899515,-10.292207,0,0,tuba/tuba_G2_15_piano_normal.mp3|26.201801,13.473525,0,0,tuba/tuba_G2_1_forte_normal.mp3|25.174166,13.6993475,0,0,tuba/tuba_G2_1_fortissimo_normal.mp3|26.5182,11.180722,0,0,tuba/tuba_G2_1_mezzo-forte_normal.mp3|26.095985,10.71396,0,0,tuba/tuba_G2_1_mezzo-piano_normal.mp3|24.199686,7.327904,0,0,tuba/tuba_G2_1_pianissimo_normal.mp3|8.017052,-11.780245,0,0,tuba/tuba_G2_1_piano_normal.mp3|-7.599479,6.002396,0,0,tuba/tuba_G2_long_forte_glissando.mp3|-4.59798,3.7040777,0,0,tuba/tuba_G2_phrase_mezzo-forte_staccatissimo.mp3|-7.368181,7.7880106,0,0,tuba/tuba_G2_phrase_mezzo-forte_staccato.mp3|-7.405601,7.7357287,0,0,tuba/tuba_G2_phrase_mezzo-forte_tenuto.mp3|26.684927,20.388876,0,0,tuba/tuba_G3_025_forte_normal.mp3|26.518507,19.817535,0,0,tuba/tuba_G3_025_fortissimo_normal.mp3|27.966204,20.42279,0,0,tuba/tuba_G3_025_mezzo-forte_normal.mp3|28.594381,20.270452,0,0,tuba/tuba_G3_025_pianissimo_normal.mp3|25.65808,24.506527,0,0,tuba/tuba_G3_025_piano_normal.mp3|27.015898,16.984852,0,0,tuba/tuba_G3_05_forte_normal.mp3|26.29371,17.38402,0,0,tuba/tuba_G3_05_fortissimo_normal.mp3|26.70109,17.502253,0,0,tuba/tuba_G3_05_mezzo-forte_normal.mp3|25.778275,7.252569,0,0,tuba/tuba_G3_05_mezzo-piano_mute.mp3|28.81993,15.804963,0,0,tuba/tuba_G3_05_mezzo-piano_normal.mp3|29.441154,16.304316,0,0,tuba/tuba_G3_05_pianissimo_normal.mp3|29.030708,19.672905,0,0,tuba/tuba_G3_05_piano_mute.mp3|23.850945,27.937298,0,0,tuba/tuba_G3_05_piano_normal.mp3|26.567545,16.393766,0,0,tuba/tuba_G3_15_forte_normal.mp3|26.620079,15.071599,0,0,tuba/tuba_G3_15_fortissimo_normal.mp3|27.832521,14.003672,0,0,tuba/tuba_G3_15_mezzo-forte_normal.mp3|28.584421,13.519438,0,0,tuba/tuba_G3_15_pianissimo_normal.mp3|21.656649,31.0372,0,0,tuba/tuba_G3_15_piano_normal.mp3|26.972113,14.501108,0,0,tuba/tuba_G3_1_forte_normal.mp3|27.160236,16.843931,0,0,tuba/tuba_G3_1_fortissimo_normal.mp3|29.585714,15.031141,0,0,tuba/tuba_G3_1_mezzo-forte_normal.mp3|25.0099,7.902306,0,0,tuba/tuba_G3_1_mezzo-piano_mute.mp3|28.61857,14.185095,0,0,tuba/tuba_G3_1_mezzo-piano_normal.mp3|29.40271,15.563619,0,0,tuba/tuba_G3_1_pianissimo_normal.mp3|29.336277,17.420187,0,0,tuba/tuba_G3_1_piano_mute.mp3|23.214,28.743725,0,0,tuba/tuba_G3_1_piano_normal.mp3|-4.5920005,4.125312,0,0,tuba/tuba_G3_phrase_mezzo-forte_staccatissimo.mp3|-5.208244,7.0749087,0,0,tuba/tuba_G3_phrase_mezzo-forte_staccato.mp3|-5.396835,7.1171985,0,0,tuba/tuba_G3_phrase_mezzo-forte_tenuto.mp3|-6.116776,6.7755995,0,0,tuba/tuba_G3_phrase_mezzo-forte_tongued-slur.mp3|-17.41803,26.291128,0,0,tuba/tuba_Gs1_025_forte_normal.mp3|-16.721119,24.261883,0,0,tuba/tuba_Gs1_025_mezzo-forte_normal.mp3|8.00417,-23.546427,0,0,tuba/tuba_Gs1_025_pianissimo_normal.mp3|-11.172052,-12.77493,0,0,tuba/tuba_Gs1_025_piano_normal.mp3|-16.881304,25.924839,0,0,tuba/tuba_Gs1_05_forte_normal.mp3|-14.558114,17.263988,0,0,tuba/tuba_Gs1_05_fortissimo_normal.mp3|-16.271704,24.180557,0,0,tuba/tuba_Gs1_05_mezzo-forte_normal.mp3|9.271467,-27.107067,0,0,tuba/tuba_Gs1_05_mezzo-piano_normal.mp3|6.784866,-27.10701,0,0,tuba/tuba_Gs1_05_pianissimo_mute.mp3|7.1709185,-21.946463,0,0,tuba/tuba_Gs1_05_pianissimo_normal.mp3|9.443741,-27.098074,0,0,tuba/tuba_Gs1_05_piano_mute.mp3|4.272682,-13.856008,0,0,tuba/tuba_Gs1_05_piano_normal.mp3|-16.2394,24.013744,0,0,tuba/tuba_Gs1_15_forte_normal.mp3|5.296783,-22.238787,0,0,tuba/tuba_Gs1_15_pianissimo_normal.mp3|-14.361814,17.276388,0,0,tuba/tuba_Gs1_1_forte_normal.mp3|-19.980423,6.842546,0,0,tuba/tuba_Gs1_1_fortissimo_normal.mp3|-11.046145,-12.205297,0,0,tuba/tuba_Gs1_1_mezzo-forte_normal.mp3|8.321807,-27.624424,0,0,tuba/tuba_Gs1_1_mezzo-piano_normal.mp3|7.5808706,-26.936958,0,0,tuba/tuba_Gs1_1_pianissimo_mute.mp3|6.2504764,-22.383595,0,0,tuba/tuba_Gs1_1_pianissimo_normal.mp3|9.883187,-26.80042,0,0,tuba/tuba_Gs1_1_piano_mute.mp3|3.6061897,-12.732925,0,0,tuba/tuba_Gs1_1_piano_normal.mp3|-15.261374,-3.3215601,0,0,tuba/tuba_Gs1_long_forte_glissando.mp3|-15.484463,1.3288598,0,0,tuba/tuba_Gs1_long_forte_major-trill.mp3|8.064249,33.80249,0,0,tuba/tuba_Gs2_025_forte_normal.mp3|21.666086,24.291395,0,0,tuba/tuba_Gs2_025_fortissimo_normal.mp3|21.259382,24.171099,0,0,tuba/tuba_Gs2_025_mezzo-forte_normal.mp3|27.644876,26.639286,0,0,tuba/tuba_Gs2_025_mezzo-piano_normal.mp3|18.35883,-22.134455,0,0,tuba/tuba_Gs2_025_pianissimo_normal.mp3|8.424575,34.393177,0,0,tuba/tuba_Gs2_05_forte_normal.mp3|18.33736,24.471785,0,0,tuba/tuba_Gs2_05_fortissimo_normal.mp3|18.64536,24.502224,0,0,tuba/tuba_Gs2_05_mezzo-forte_normal.mp3|4.954812,-26.438267,0,0,tuba/tuba_Gs2_05_mezzo-piano_mute.mp3|28.923153,26.763668,0,0,tuba/tuba_Gs2_05_mezzo-piano_normal.mp3|11.089866,-15.215666,0,0,tuba/tuba_Gs2_05_pianissimo_normal.mp3|6.265185,-13.221047,0,0,tuba/tuba_Gs2_05_piano_normal.mp3|16.601606,27.379435,0,0,tuba/tuba_Gs2_15_fortissimo_normal.mp3|17.878551,28.79725,0,0,tuba/tuba_Gs2_15_mezzo-piano_normal.mp3|6.0731206,-9.555643,0,0,tuba/tuba_Gs2_15_pianissimo_normal.mp3|17.029951,26.728922,0,0,tuba/tuba_Gs2_1_forte_normal.mp3|16.884653,26.765034,0,0,tuba/tuba_Gs2_1_fortissimo_normal.mp3|17.521729,27.691511,0,0,tuba/tuba_Gs2_1_mezzo-forte_normal.mp3|4.644741,-26.37794,0,0,tuba/tuba_Gs2_1_mezzo-piano_mute.mp3|28.950388,26.765476,0,0,tuba/tuba_Gs2_1_mezzo-piano_normal.mp3|7.157995,-11.679765,0,0,tuba/tuba_Gs2_1_pianissimo_normal.mp3|4.752117,-11.096218,0,0,tuba/tuba_Gs2_1_piano_normal.mp3|-14.05925,5.3972816,0,0,tuba/tuba_Gs2_long_forte_major-trill.mp3|-17.716087,-1.6041561,0,0,tuba/tuba_Gs2_long_forte_tremolo.mp3|21.879164,28.214264,0,0,tuba/tuba_Gs3_025_forte_normal.mp3|23.32725,25.590319,0,0,tuba/tuba_Gs3_025_fortissimo_normal.mp3|23.523212,25.69169,0,0,tuba/tuba_Gs3_025_mezzo-forte_normal.mp3|15.23228,40.476616,0,0,tuba/tuba_Gs3_025_mezzo-piano_normal.mp3|25.8207,24.358229,0,0,tuba/tuba_Gs3_025_pianissimo_normal.mp3|12.878984,42.619553,0,0,tuba/tuba_Gs3_025_piano_normal.mp3|22.520206,26.968206,0,0,tuba/tuba_Gs3_05_forte_normal.mp3|21.434517,27.991312,0,0,tuba/tuba_Gs3_05_fortissimo_normal.mp3|22.279446,28.591078,0,0,tuba/tuba_Gs3_05_mezzo-forte_normal.mp3|7.394813,-14.618412,0,0,tuba/tuba_Gs3_05_mezzo-piano_mute.mp3|22.969687,27.738218,0,0,tuba/tuba_Gs3_05_mezzo-piano_normal.mp3|25.28065,27.567427,0,0,tuba/tuba_Gs3_05_pianissimo_normal.mp3|25.07707,26.451057,0,0,tuba/tuba_Gs3_05_piano_mute.mp3|14.7783375,38.73451,0,0,tuba/tuba_Gs3_05_piano_normal.mp3|21.128881,29.383934,0,0,tuba/tuba_Gs3_15_forte_normal.mp3|20.86727,31.369736,0,0,tuba/tuba_Gs3_15_fortissimo_normal.mp3|20.795023,29.999262,0,0,tuba/tuba_Gs3_15_mezzo-forte_normal.mp3|23.152346,30.325493,0,0,tuba/tuba_Gs3_15_pianissimo_normal.mp3|16.82779,36.472034,0,0,tuba/tuba_Gs3_15_piano_normal.mp3|22.298792,27.466759,0,0,tuba/tuba_Gs3_1_forte_normal.mp3|21.370333,32.99811,0,0,tuba/tuba_Gs3_1_fortissimo_mute.mp3|20.856752,30.880264,0,0,tuba/tuba_Gs3_1_fortissimo_normal.mp3|21.879038,29.109406,0,0,tuba/tuba_Gs3_1_mezzo-forte_normal.mp3|6.707707,-13.75322,0,0,tuba/tuba_Gs3_1_mezzo-piano_mute.mp3|19.879702,30.298286,0,0,tuba/tuba_Gs3_1_mezzo-piano_normal.mp3|21.298239,32.71769,0,0,tuba/tuba_Gs3_1_pianissimo_mute.mp3|25.152569,28.091593,0,0,tuba/tuba_Gs3_1_pianissimo_normal.mp3|23.395283,27.207506,0,0,tuba/tuba_Gs3_1_piano_mute.mp3|15.13375,37.123936,0,0,tuba/tuba_Gs3_1_piano_normal.mp3|",
+   "units" : [
+      {
+         "behaviors" : [
+            {
+               "name" : "UnitBehaviorTrajectory",
+               "params" : {
+                  "positions" : [],
+                  "probability" : 1,
+                  "speed" : 1
+               }
+            },
+            {
+               "name" : "UnitBehaviorOSC",
+               "params" : {
+                  "enabled" : true,
+                  "prefix" : ""
+               }
+            },
+            {
+               "name" : "UnitBehaviorDragToPlay",
+               "params" : null
+            },
+            {
+               "name" : "",
+               "params" : {
+                  "choke" : false,
+                  "polyphony" : 2
+               }
+            }
+         ],
+         "customName" : "",
+         "effects" : [],
+         "envelopeAttack" : 40,
+         "envelopeEnable" : 0,
+         "envelopeHold" : 20,
+         "envelopeMode" : 1,
+         "envelopeRelease" : 40,
+         "mute" : false,
+         "name" : "Explorer Unit",
+         "output" : 0,
+         "pan" : 0.4157509505748749,
+         "params" : {
+            "midiMappings" : {}
+         },
+         "restrictToCluster" : -1,
+         "samplePitch" : 0,
+         "sampleReverse" : 0,
+         "sampleStart" : 0,
+         "solo" : false,
+         "volume" : -12.10652160644531
+      },
+      {
+         "behaviors" : [
+            {
+               "name" : "UnitBehaviorDragToPlay",
+               "params" : null
+            },
+            {
+               "name" : "UnitBehaviorOSC",
+               "params" : {
+                  "enabled" : false,
+                  "prefix" : ""
+               }
+            },
+            {
+               "name" : "",
+               "params" : {
+                  "choke" : true,
+                  "polyphony" : 2
+               }
+            }
+         ],
+         "customName" : "",
+         "effects" : [],
+         "envelopeAttack" : 40,
+         "envelopeEnable" : 0,
+         "envelopeHold" : 20,
+         "envelopeMode" : 1,
+         "envelopeRelease" : 40,
+         "mute" : false,
+         "name" : "Sequence Unit",
+         "output" : 0,
+         "pan" : 0.4827586114406586,
+         "params" : {
+            "bars" : 3,
+            "ids" : [ 994, 902, 901, 521, 499, 898, 505, 600, 711, 674 ],
+            "offset" : 0,
+            "preserveClusters" : 1,
+            "preventDeath" : 0,
+            "probAdd" : 0,
+            "probChange" : 0,
+            "probPlay" : 0.6899999976158142,
+            "probRemove" : 0
+         },
+         "restrictToCluster" : -1,
+         "samplePitch" : 0,
+         "sampleReverse" : 0,
+         "sampleStart" : 0,
+         "solo" : false,
+         "volume" : -4.019999980926514
+      },
+      {
+         "behaviors" : [
+            {
+               "name" : "UnitBehaviorDragToPlay",
+               "params" : null
+            },
+            {
+               "name" : "UnitBehaviorOSC",
+               "params" : {
+                  "enabled" : false,
+                  "prefix" : ""
+               }
+            },
+            {
+               "name" : "",
+               "params" : {
+                  "choke" : true,
+                  "polyphony" : 2
+               }
+            }
+         ],
+         "customName" : "",
+         "effects" : [],
+         "envelopeAttack" : 40,
+         "envelopeEnable" : 0,
+         "envelopeHold" : 20,
+         "envelopeMode" : 1,
+         "envelopeRelease" : 40,
+         "mute" : false,
+         "name" : "Sequence Unit",
+         "output" : 0,
+         "pan" : 0.3046398460865021,
+         "params" : {
+            "bars" : 2,
+            "ids" : [ 440, 488, 460, 433, 385, 475 ],
+            "offset" : 0,
+            "preserveClusters" : 1,
+            "preventDeath" : 0,
+            "probAdd" : 0,
+            "probChange" : 0,
+            "probPlay" : 0.8100000023841858,
+            "probRemove" : 0
+         },
+         "restrictToCluster" : -1,
+         "samplePitch" : 0,
+         "sampleReverse" : 0,
+         "sampleStart" : 0,
+         "solo" : false,
+         "volume" : -26.61076736450195
+      },
+      {
+         "behaviors" : [
+            {
+               "name" : "UnitBehaviorDragToPlay",
+               "params" : null
+            },
+            {
+               "name" : "UnitBehaviorOSC",
+               "params" : {
+                  "enabled" : false,
+                  "prefix" : ""
+               }
+            },
+            {
+               "name" : "",
+               "params" : {
+                  "choke" : true,
+                  "polyphony" : 2
+               }
+            }
+         ],
+         "customName" : "",
+         "effects" : [],
+         "envelopeAttack" : 40,
+         "envelopeEnable" : 0,
+         "envelopeHold" : 20,
+         "envelopeMode" : 1,
+         "envelopeRelease" : 40,
+         "mute" : false,
+         "name" : "Sequence Unit",
+         "output" : 0,
+         "pan" : 0.3472222089767456,
+         "params" : {
+            "bars" : 3,
+            "ids" : [ 302, 102, 54, 332 ],
+            "offset" : 1,
+            "preserveClusters" : 1,
+            "preventDeath" : 0,
+            "probAdd" : 0,
+            "probChange" : 0,
+            "probPlay" : 0.6600000262260437,
+            "probRemove" : 0
+         },
+         "restrictToCluster" : -1,
+         "samplePitch" : 0,
+         "sampleReverse" : 0,
+         "sampleStart" : 0,
+         "solo" : false,
+         "volume" : -38.15164184570313
+      },
+      {
+         "behaviors" : [
+            {
+               "name" : "UnitBehaviorDragToPlay",
+               "params" : null
+            },
+            {
+               "name" : "UnitBehaviorOSC",
+               "params" : {
+                  "enabled" : false,
+                  "prefix" : ""
+               }
+            },
+            {
+               "name" : "",
+               "params" : {
+                  "choke" : true,
+                  "polyphony" : 2
+               }
+            }
+         ],
+         "customName" : "",
+         "effects" : [],
+         "envelopeAttack" : 40,
+         "envelopeEnable" : 0,
+         "envelopeHold" : 20,
+         "envelopeMode" : 1,
+         "envelopeRelease" : 40,
+         "mute" : false,
+         "name" : "Sequence Unit",
+         "output" : 0,
+         "pan" : 0.2916666865348816,
+         "params" : {
+            "bars" : 2,
+            "ids" : [ 861, 881, 283, 296, 295, 871, 849, 770 ],
+            "offset" : 1,
+            "preserveClusters" : 1,
+            "preventDeath" : 0,
+            "probAdd" : 0,
+            "probChange" : 0,
+            "probPlay" : 0.4399999976158142,
+            "probRemove" : 0
+         },
+         "restrictToCluster" : -1,
+         "samplePitch" : 0,
+         "sampleReverse" : 0,
+         "sampleStart" : 0,
+         "solo" : false,
+         "volume" : -36.1988639831543
+      },
+      {
+         "behaviors" : [
+            {
+               "name" : "UnitBehaviorDragToPlay",
+               "params" : null
+            },
+            {
+               "name" : "UnitBehaviorOSC",
+               "params" : {
+                  "enabled" : false,
+                  "prefix" : ""
+               }
+            },
+            {
+               "name" : "",
+               "params" : {
+                  "choke" : true,
+                  "polyphony" : 2
+               }
+            }
+         ],
+         "customName" : "",
+         "effects" : [],
+         "envelopeAttack" : 40,
+         "envelopeEnable" : 0,
+         "envelopeHold" : 20,
+         "envelopeMode" : 1,
+         "envelopeRelease" : 40,
+         "mute" : false,
+         "name" : "Sequence Unit",
+         "output" : 0,
+         "pan" : 0.2916666865348816,
+         "params" : {
+            "bars" : 2,
+            "ids" : [ 211, 247, 133, 794 ],
+            "offset" : 1,
+            "preserveClusters" : 1,
+            "preventDeath" : 0,
+            "probAdd" : 0,
+            "probChange" : 0,
+            "probPlay" : 0.6100000143051147,
+            "probRemove" : 0
+         },
+         "restrictToCluster" : -1,
+         "samplePitch" : 0,
+         "sampleReverse" : 0,
+         "sampleStart" : 0,
+         "solo" : false,
+         "volume" : -25.99366760253906
+      },
+      {
+         "behaviors" : [
+            {
+               "name" : "UnitBehaviorDragToPlay",
+               "params" : null
+            },
+            {
+               "name" : "UnitBehaviorOSC",
+               "params" : {
+                  "enabled" : false,
+                  "prefix" : ""
+               }
+            },
+            {
+               "name" : "",
+               "params" : {
+                  "choke" : true,
+                  "polyphony" : 2
+               }
+            }
+         ],
+         "customName" : "",
+         "effects" : [],
+         "envelopeAttack" : 40,
+         "envelopeEnable" : 0,
+         "envelopeHold" : 20,
+         "envelopeMode" : 1,
+         "envelopeRelease" : 40,
+         "mute" : false,
+         "name" : "Sequence Unit",
+         "output" : 0,
+         "pan" : 0.5694444179534912,
+         "params" : {
+            "bars" : 2,
+            "ids" : [ 851, 857, 942, 829, 923, 935, 930, 929, 839, 863 ],
+            "offset" : 0,
+            "preserveClusters" : 1,
+            "preventDeath" : 0,
+            "probAdd" : 0,
+            "probChange" : 0,
+            "probPlay" : 1,
+            "probRemove" : 0
+         },
+         "restrictToCluster" : -1,
+         "samplePitch" : 0,
+         "sampleReverse" : 0,
+         "sampleStart" : 0,
+         "solo" : false,
+         "volume" : -25.99366760253906
+      },
+      {
+         "behaviors" : [
+            {
+               "name" : "UnitBehaviorDragToPlay",
+               "params" : null
+            },
+            {
+               "name" : "UnitBehaviorOSC",
+               "params" : {
+                  "enabled" : false,
+                  "prefix" : ""
+               }
+            },
+            {
+               "name" : "",
+               "params" : {
+                  "choke" : true,
+                  "polyphony" : 2
+               }
+            }
+         ],
+         "customName" : "",
+         "effects" : [],
+         "envelopeAttack" : 40,
+         "envelopeEnable" : 0,
+         "envelopeHold" : 20,
+         "envelopeMode" : 1,
+         "envelopeRelease" : 40,
+         "mute" : false,
+         "name" : "Sequence Unit",
+         "output" : 0,
+         "pan" : 0.6034482717514038,
+         "params" : {
+            "bars" : 1,
+            "ids" : [ 118, 111, 746, 371, 920, 154 ],
+            "offset" : 4,
+            "preserveClusters" : 1,
+            "preventDeath" : 0,
+            "probAdd" : 0,
+            "probChange" : 0,
+            "probPlay" : 0.6299999952316284,
+            "probRemove" : 0
+         },
+         "restrictToCluster" : -1,
+         "samplePitch" : 0,
+         "sampleReverse" : 0,
+         "sampleStart" : 0,
+         "solo" : false,
+         "volume" : -4.849999904632568
+      },
+      {
+         "behaviors" : [
+            {
+               "name" : "UnitBehaviorDragToPlay",
+               "params" : null
+            },
+            {
+               "name" : "UnitBehaviorOSC",
+               "params" : {
+                  "enabled" : false,
+                  "prefix" : ""
+               }
+            },
+            {
+               "name" : "",
+               "params" : {
+                  "choke" : true,
+                  "polyphony" : 2
+               }
+            }
+         ],
+         "customName" : "",
+         "effects" : [],
+         "envelopeAttack" : 40,
+         "envelopeEnable" : 0,
+         "envelopeHold" : 20,
+         "envelopeMode" : 1,
+         "envelopeRelease" : 40,
+         "mute" : false,
+         "name" : "Sequence Unit",
+         "output" : 0,
+         "pan" : 0.7068965435028076,
+         "params" : {
+            "bars" : 2,
+            "ids" : [ 1073, 677, 825, 836, 501 ],
+            "offset" : 0,
+            "preserveClusters" : 1,
+            "preventDeath" : 0,
+            "probAdd" : 0,
+            "probChange" : 0,
+            "probPlay" : 0.75,
+            "probRemove" : 0
+         },
+         "restrictToCluster" : -1,
+         "samplePitch" : 0,
+         "sampleReverse" : 0,
+         "sampleStart" : 0,
+         "solo" : false,
+         "volume" : -16.35000038146973
+      },
+      {
+         "behaviors" : [
+            {
+               "name" : "UnitBehaviorDragToPlay",
+               "params" : null
+            },
+            {
+               "name" : "UnitBehaviorOSC",
+               "params" : {
+                  "enabled" : false,
+                  "prefix" : ""
+               }
+            },
+            {
+               "name" : "",
+               "params" : {
+                  "choke" : true,
+                  "polyphony" : 2
+               }
+            }
+         ],
+         "customName" : "",
+         "effects" : [],
+         "envelopeAttack" : 40,
+         "envelopeEnable" : 0,
+         "envelopeHold" : 20,
+         "envelopeMode" : 1,
+         "envelopeRelease" : 40,
+         "mute" : false,
+         "name" : "Sequence Unit",
+         "output" : 0,
+         "pan" : 0.6034482717514038,
+         "params" : {
+            "bars" : 2,
+            "ids" : [ 706, 622, 528, 904, 534, 905, 1003, 683, 679 ],
+            "offset" : 1,
+            "preserveClusters" : 1,
+            "preventDeath" : 0,
+            "probAdd" : 0,
+            "probChange" : 0,
+            "probPlay" : 0.6499999761581421,
+            "probRemove" : 0
+         },
+         "restrictToCluster" : -1,
+         "samplePitch" : 0,
+         "sampleReverse" : 0,
+         "sampleStart" : 0,
+         "solo" : false,
+         "volume" : -11.82999992370605
+      },
+      {
+         "behaviors" : [
+            {
+               "name" : "UnitBehaviorDragToPlay",
+               "params" : null
+            },
+            {
+               "name" : "UnitBehaviorOSC",
+               "params" : {
+                  "enabled" : false,
+                  "prefix" : ""
+               }
+            },
+            {
+               "name" : "",
+               "params" : {
+                  "choke" : true,
+                  "polyphony" : 2
+               }
+            }
+         ],
+         "customName" : "",
+         "effects" : [],
+         "envelopeAttack" : 40,
+         "envelopeEnable" : 0,
+         "envelopeHold" : 20,
+         "envelopeMode" : 1,
+         "envelopeRelease" : 40,
+         "mute" : false,
+         "name" : "Sequence Unit",
+         "output" : 0,
+         "pan" : 0,
+         "params" : {
+            "bars" : 2,
+            "ids" : [ 356, 1162, 1157, 1088, 1081, 896, 264, 341, 285 ],
+            "offset" : 0,
+            "preserveClusters" : 1,
+            "preventDeath" : 0,
+            "probAdd" : 0,
+            "probChange" : 0,
+            "probPlay" : 0.6899999976158142,
+            "probRemove" : 0
+         },
+         "restrictToCluster" : -1,
+         "samplePitch" : 0,
+         "sampleReverse" : 0,
+         "sampleStart" : 0,
+         "solo" : false,
+         "volume" : -8.130000114440918
+      },
+      {
+         "behaviors" : [
+            {
+               "name" : "UnitBehaviorDragToPlay",
+               "params" : null
+            },
+            {
+               "name" : "UnitBehaviorOSC",
+               "params" : {
+                  "enabled" : false,
+                  "prefix" : ""
+               }
+            },
+            {
+               "name" : "",
+               "params" : {
+                  "choke" : true,
+                  "polyphony" : 2
+               }
+            }
+         ],
+         "customName" : "",
+         "effects" : [],
+         "envelopeAttack" : 40,
+         "envelopeEnable" : 0,
+         "envelopeHold" : 20,
+         "envelopeMode" : 1,
+         "envelopeRelease" : 40,
+         "mute" : false,
+         "name" : "Sequence Unit",
+         "output" : 0,
+         "pan" : 0,
+         "params" : {
+            "bars" : 2,
+            "ids" : [ 378, 756, 738, 753, 470, 485, 481 ],
+            "offset" : 1,
+            "preserveClusters" : 1,
+            "preventDeath" : 0,
+            "probAdd" : 0,
+            "probChange" : 0,
+            "probPlay" : 0.6000000238418579,
+            "probRemove" : 0
+         },
+         "restrictToCluster" : -1,
+         "samplePitch" : 0,
+         "sampleReverse" : 0,
+         "sampleStart" : 0,
+         "solo" : false,
+         "volume" : -7.309999942779541
+      },
+      {
+         "behaviors" : [
+            {
+               "name" : "UnitBehaviorDragToPlay",
+               "params" : null
+            },
+            {
+               "name" : "UnitBehaviorOSC",
+               "params" : {
+                  "enabled" : false,
+                  "prefix" : ""
+               }
+            },
+            {
+               "name" : "",
+               "params" : {
+                  "choke" : true,
+                  "polyphony" : 2
+               }
+            }
+         ],
+         "customName" : "",
+         "effects" : [],
+         "envelopeAttack" : 40,
+         "envelopeEnable" : 0,
+         "envelopeHold" : 20,
+         "envelopeMode" : 1,
+         "envelopeRelease" : 40,
+         "mute" : false,
+         "name" : "Sequence Unit",
+         "output" : 0,
+         "pan" : 0.5,
+         "params" : {
+            "bars" : 2,
+            "ids" : [ 427, 1026, 1011, 894, 1061 ],
+            "offset" : 0,
+            "preserveClusters" : 1,
+            "preventDeath" : 0,
+            "probAdd" : 0,
+            "probChange" : 0,
+            "probPlay" : 0.4600000083446503,
+            "probRemove" : 0
+         },
+         "restrictToCluster" : -1,
+         "samplePitch" : 0,
+         "sampleReverse" : 0,
+         "sampleStart" : 0,
+         "solo" : false,
+         "volume" : -6.079999923706055
+      }
+   ]
+}
+
