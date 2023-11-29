@@ -2,10 +2,10 @@
    "audioDeviceName" : "FL Studio ASIO",
    "audioFilesPath" : "C:\\Users\\solpa\\Documents\\GitHub\\CART398Final\\osc-audiostellar\\pho-samples/",
    "global" : {
-      "BPM" : 54,
-      "cam_scale" : 1.025450944900513,
-      "cam_translation_x" : 219.5916137695313,
-      "cam_translation_y" : 117.7338485717773,
+      "BPM" : 57,
+      "cam_scale" : 2.126087665557861,
+      "cam_translation_x" : -1511.310302734375,
+      "cam_translation_y" : -187.4696044921875,
       "masterVolume" : 0
    },
    "midiMapping" : [],
@@ -14,6 +14,54 @@
       "DBScan_EPS" : 30,
       "DBScan_minPts" : 10,
       "clusterNames" : [
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
          "",
          "",
          "",
@@ -132,7 +180,7 @@
          "mute" : false,
          "name" : "Explorer Unit",
          "output" : 0,
-         "pan" : 0.4157509505748749,
+         "pan" : 0.7777777910232544,
          "params" : {
             "midiMappings" : {}
          },
@@ -141,7 +189,7 @@
          "sampleReverse" : 0,
          "sampleStart" : 0,
          "solo" : false,
-         "volume" : -12.10652160644531
+         "volume" : -43.19079971313477
       },
       {
          "behaviors" : [
@@ -174,7 +222,7 @@
          "mute" : false,
          "name" : "Sequence Unit",
          "output" : 0,
-         "pan" : 0.4827586114406586,
+         "pan" : 0.1577777713537216,
          "params" : {
             "bars" : 3,
             "ids" : [ 994, 902, 901, 521, 499, 898, 505, 600, 711, 674 ],
@@ -191,7 +239,7 @@
          "sampleReverse" : 0,
          "sampleStart" : 0,
          "solo" : false,
-         "volume" : -4.019999980926514
+         "volume" : -43.19079971313477
       },
       {
          "behaviors" : [
@@ -224,7 +272,7 @@
          "mute" : false,
          "name" : "Sequence Unit",
          "output" : 0,
-         "pan" : 0.3046398460865021,
+         "pan" : 0.1111111119389534,
          "params" : {
             "bars" : 2,
             "ids" : [ 440, 488, 460, 433, 385, 475 ],
@@ -241,7 +289,7 @@
          "sampleReverse" : 0,
          "sampleStart" : 0,
          "solo" : false,
-         "volume" : -26.61076736450195
+         "volume" : -43.19079971313477
       },
       {
          "behaviors" : [
@@ -252,7 +300,7 @@
             {
                "name" : "UnitBehaviorOSC",
                "params" : {
-                  "enabled" : false,
+                  "enabled" : true,
                   "prefix" : ""
                }
             },
@@ -274,7 +322,7 @@
          "mute" : false,
          "name" : "Sequence Unit",
          "output" : 0,
-         "pan" : 0.3472222089767456,
+         "pan" : 0.1499999910593033,
          "params" : {
             "bars" : 3,
             "ids" : [ 302, 102, 54, 332 ],
@@ -291,7 +339,7 @@
          "sampleReverse" : 0,
          "sampleStart" : 0,
          "solo" : false,
-         "volume" : -38.15164184570313
+         "volume" : -43.19079971313477
       },
       {
          "behaviors" : [
@@ -324,7 +372,7 @@
          "mute" : false,
          "name" : "Sequence Unit",
          "output" : 0,
-         "pan" : 0.2916666865348816,
+         "pan" : 0.8488888740539551,
          "params" : {
             "bars" : 2,
             "ids" : [ 861, 881, 283, 296, 295, 871, 849, 770 ],
@@ -341,7 +389,7 @@
          "sampleReverse" : 0,
          "sampleStart" : 0,
          "solo" : false,
-         "volume" : -36.1988639831543
+         "volume" : 4.801204681396484
       },
       {
          "behaviors" : [
@@ -374,7 +422,7 @@
          "mute" : false,
          "name" : "Sequence Unit",
          "output" : 0,
-         "pan" : 0.2916666865348816,
+         "pan" : 0.3933333456516266,
          "params" : {
             "bars" : 2,
             "ids" : [ 211, 247, 133, 794 ],
@@ -391,7 +439,7 @@
          "sampleReverse" : 0,
          "sampleStart" : 0,
          "solo" : false,
-         "volume" : -25.99366760253906
+         "volume" : -32.15264129638672
       },
       {
          "behaviors" : [
@@ -424,7 +472,7 @@
          "mute" : false,
          "name" : "Sequence Unit",
          "output" : 0,
-         "pan" : 0.5694444179534912,
+         "pan" : 0.8111111521720886,
          "params" : {
             "bars" : 2,
             "ids" : [ 851, 857, 942, 829, 923, 935, 930, 929, 839, 863 ],
@@ -441,7 +489,7 @@
          "sampleReverse" : 0,
          "sampleStart" : 0,
          "solo" : false,
-         "volume" : -25.99366760253906
+         "volume" : -43.19079971313477
       },
       {
          "behaviors" : [
@@ -524,7 +572,7 @@
          "mute" : false,
          "name" : "Sequence Unit",
          "output" : 0,
-         "pan" : 0.7068965435028076,
+         "pan" : 0.7888889312744141,
          "params" : {
             "bars" : 2,
             "ids" : [ 1073, 677, 825, 836, 501 ],
@@ -541,7 +589,7 @@
          "sampleReverse" : 0,
          "sampleStart" : 0,
          "solo" : false,
-         "volume" : -16.35000038146973
+         "volume" : -43.19079971313477
       },
       {
          "behaviors" : [
@@ -627,7 +675,7 @@
          "pan" : 0,
          "params" : {
             "bars" : 2,
-            "ids" : [ 356, 1162, 1157, 1088, 1081, 896, 264, 341, 285 ],
+            "ids" : [ 356, 1169, 1157, 1088, 1081, 896, 264, 341, 285 ],
             "offset" : 0,
             "preserveClusters" : 1,
             "preventDeath" : 0,
@@ -674,7 +722,7 @@
          "mute" : false,
          "name" : "Sequence Unit",
          "output" : 0,
-         "pan" : 0,
+         "pan" : 0.7777777910232544,
          "params" : {
             "bars" : 2,
             "ids" : [ 378, 756, 738, 753, 470, 485, 481 ],
@@ -691,7 +739,7 @@
          "sampleReverse" : 0,
          "sampleStart" : 0,
          "solo" : false,
-         "volume" : -7.309999942779541
+         "volume" : -43.19079971313477
       },
       {
          "behaviors" : [
@@ -724,7 +772,7 @@
          "mute" : false,
          "name" : "Sequence Unit",
          "output" : 0,
-         "pan" : 0.5,
+         "pan" : 0.6666666865348816,
          "params" : {
             "bars" : 2,
             "ids" : [ 427, 1026, 1011, 894, 1061 ],
@@ -741,7 +789,7 @@
          "sampleReverse" : 0,
          "sampleStart" : 0,
          "solo" : false,
-         "volume" : -6.079999923706055
+         "volume" : -43.19079971313477
       }
    ]
 }

@@ -2,10 +2,10 @@
    "audioDeviceName" : "FL Studio ASIO",
    "audioFilesPath" : "C:\\Users\\solpa\\Documents\\GitHub\\CART398Final\\osc-audiostellar\\pho-samples/",
    "global" : {
-      "BPM" : 54,
-      "cam_scale" : 0.6655612587928772,
-      "cam_translation_x" : 258.1932067871094,
-      "cam_translation_y" : 188.4630737304688,
+      "BPM" : 27,
+      "cam_scale" : 0.8914164304733276,
+      "cam_translation_x" : 275.9187316894531,
+      "cam_translation_y" : 272.98486328125,
       "masterVolume" : 0
    },
    "midiMapping" : [],
@@ -14,6 +14,102 @@
       "DBScan_EPS" : 30,
       "DBScan_minPts" : 10,
       "clusterNames" : [
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
+         "",
          "",
          "",
          "",
@@ -108,7 +204,7 @@
          "mute" : false,
          "name" : "Explorer Unit",
          "output" : 0,
-         "pan" : 0.7491369247436523,
+         "pan" : 0.4511111080646515,
          "params" : {
             "midiMappings" : {}
          },
@@ -117,7 +213,7 @@
          "sampleReverse" : 0,
          "sampleStart" : 0,
          "solo" : false,
-         "volume" : -2.8883056640625
+         "volume" : -9.779999732971191
       },
       {
          "behaviors" : [
@@ -150,360 +246,10 @@
          "mute" : false,
          "name" : "Sequence Unit",
          "output" : 0,
-         "pan" : 0,
-         "params" : {
-            "bars" : 3,
-            "ids" : [ 1150, 1149, 1153, 1155, 1161 ],
-            "offset" : 0,
-            "preserveClusters" : 1,
-            "preventDeath" : 0,
-            "probAdd" : 0,
-            "probChange" : 0,
-            "probPlay" : 0.6899999976158142,
-            "probRemove" : 0
-         },
-         "restrictToCluster" : -1,
-         "samplePitch" : 0,
-         "sampleReverse" : 0,
-         "sampleStart" : 0,
-         "solo" : false,
-         "volume" : -18.47442626953125
-      },
-      {
-         "behaviors" : [
-            {
-               "name" : "UnitBehaviorDragToPlay",
-               "params" : null
-            },
-            {
-               "name" : "UnitBehaviorOSC",
-               "params" : {
-                  "enabled" : false,
-                  "prefix" : ""
-               }
-            },
-            {
-               "name" : "",
-               "params" : {
-                  "choke" : true,
-                  "polyphony" : 2
-               }
-            }
-         ],
-         "customName" : "",
-         "effects" : [],
-         "envelopeAttack" : 40,
-         "envelopeEnable" : 0,
-         "envelopeHold" : 20,
-         "envelopeMode" : 1,
-         "envelopeRelease" : 40,
-         "mute" : false,
-         "name" : "Sequence Unit",
-         "output" : 0,
-         "pan" : 0,
-         "params" : {
-            "bars" : 2,
-            "ids" : [ 440, 461, 460, 433, 385, 475 ],
-            "offset" : 0,
-            "preserveClusters" : 1,
-            "preventDeath" : 0,
-            "probAdd" : 0,
-            "probChange" : 0,
-            "probPlay" : 0.8100000023841858,
-            "probRemove" : 0
-         },
-         "restrictToCluster" : -1,
-         "samplePitch" : 0,
-         "sampleReverse" : 0,
-         "sampleStart" : 0,
-         "solo" : false,
-         "volume" : -18.32387161254883
-      },
-      {
-         "behaviors" : [
-            {
-               "name" : "UnitBehaviorDragToPlay",
-               "params" : null
-            },
-            {
-               "name" : "UnitBehaviorOSC",
-               "params" : {
-                  "enabled" : false,
-                  "prefix" : ""
-               }
-            },
-            {
-               "name" : "",
-               "params" : {
-                  "choke" : true,
-                  "polyphony" : 2
-               }
-            }
-         ],
-         "customName" : "",
-         "effects" : [],
-         "envelopeAttack" : 40,
-         "envelopeEnable" : 0,
-         "envelopeHold" : 20,
-         "envelopeMode" : 1,
-         "envelopeRelease" : 40,
-         "mute" : false,
-         "name" : "Sequence Unit",
-         "output" : 0,
-         "pan" : 0,
-         "params" : {
-            "bars" : 3,
-            "ids" : [ 86, 51, 6, 63, 72, 23, 20, 34, 78 ],
-            "offset" : 1,
-            "preserveClusters" : 1,
-            "preventDeath" : 0,
-            "probAdd" : 0,
-            "probChange" : 0,
-            "probPlay" : 0.6700000166893005,
-            "probRemove" : 0
-         },
-         "restrictToCluster" : -1,
-         "samplePitch" : 0,
-         "sampleReverse" : 0,
-         "sampleStart" : 0,
-         "solo" : false,
-         "volume" : -18.28440093994141
-      },
-      {
-         "behaviors" : [
-            {
-               "name" : "UnitBehaviorDragToPlay",
-               "params" : null
-            },
-            {
-               "name" : "UnitBehaviorOSC",
-               "params" : {
-                  "enabled" : false,
-                  "prefix" : ""
-               }
-            },
-            {
-               "name" : "",
-               "params" : {
-                  "choke" : true,
-                  "polyphony" : 2
-               }
-            }
-         ],
-         "customName" : "",
-         "effects" : [],
-         "envelopeAttack" : 40,
-         "envelopeEnable" : 0,
-         "envelopeHold" : 20,
-         "envelopeMode" : 1,
-         "envelopeRelease" : 40,
-         "mute" : false,
-         "name" : "Sequence Unit",
-         "output" : 0,
-         "pan" : 0,
+         "pan" : 0.6533333659172058,
          "params" : {
             "bars" : 4,
-            "ids" : [ 47, 13, 60, 74, 22, 28, 35, 79 ],
-            "offset" : 1,
-            "preserveClusters" : 1,
-            "preventDeath" : 0,
-            "probAdd" : 0,
-            "probChange" : 0,
-            "probPlay" : 1,
-            "probRemove" : 0
-         },
-         "restrictToCluster" : -1,
-         "samplePitch" : 0,
-         "sampleReverse" : 0,
-         "sampleStart" : 0,
-         "solo" : false,
-         "volume" : -18.27445030212402
-      },
-      {
-         "behaviors" : [
-            {
-               "name" : "UnitBehaviorDragToPlay",
-               "params" : null
-            },
-            {
-               "name" : "UnitBehaviorOSC",
-               "params" : {
-                  "enabled" : false,
-                  "prefix" : ""
-               }
-            },
-            {
-               "name" : "",
-               "params" : {
-                  "choke" : true,
-                  "polyphony" : 2
-               }
-            }
-         ],
-         "customName" : "",
-         "effects" : [],
-         "envelopeAttack" : 40,
-         "envelopeEnable" : 0,
-         "envelopeHold" : 20,
-         "envelopeMode" : 1,
-         "envelopeRelease" : 40,
-         "mute" : false,
-         "name" : "Sequence Unit",
-         "output" : 0,
-         "pan" : 0,
-         "params" : {
-            "bars" : 4,
-            "ids" : [ 122, 364, 252, 112, 193, 164 ],
-            "offset" : 2,
-            "preserveClusters" : 1,
-            "preventDeath" : 0,
-            "probAdd" : 0,
-            "probChange" : 0,
-            "probPlay" : 0.6200000047683716,
-            "probRemove" : 0
-         },
-         "restrictToCluster" : -1,
-         "samplePitch" : 0,
-         "sampleReverse" : 0,
-         "sampleStart" : 0,
-         "solo" : false,
-         "volume" : -18.27326774597168
-      },
-      {
-         "behaviors" : [
-            {
-               "name" : "UnitBehaviorDragToPlay",
-               "params" : null
-            },
-            {
-               "name" : "UnitBehaviorOSC",
-               "params" : {
-                  "enabled" : false,
-                  "prefix" : ""
-               }
-            },
-            {
-               "name" : "",
-               "params" : {
-                  "choke" : true,
-                  "polyphony" : 2
-               }
-            }
-         ],
-         "customName" : "",
-         "effects" : [],
-         "envelopeAttack" : 40,
-         "envelopeEnable" : 0,
-         "envelopeHold" : 20,
-         "envelopeMode" : 1,
-         "envelopeRelease" : 40,
-         "mute" : false,
-         "name" : "Sequence Unit",
-         "output" : 0,
-         "pan" : 0.4482758641242981,
-         "params" : {
-            "bars" : 5,
-            "ids" : [ 851, 857, 942, 829, 923, 935, 930, 929, 839, 863 ],
-            "offset" : 0,
-            "preserveClusters" : 1,
-            "preventDeath" : 0,
-            "probAdd" : 0,
-            "probChange" : 0,
-            "probPlay" : 0.6899999976158142,
-            "probRemove" : 0
-         },
-         "restrictToCluster" : -1,
-         "samplePitch" : 0,
-         "sampleReverse" : 0,
-         "sampleStart" : 0,
-         "solo" : false,
-         "volume" : -33.17631912231445
-      },
-      {
-         "behaviors" : [
-            {
-               "name" : "UnitBehaviorDragToPlay",
-               "params" : null
-            },
-            {
-               "name" : "UnitBehaviorOSC",
-               "params" : {
-                  "enabled" : false,
-                  "prefix" : ""
-               }
-            },
-            {
-               "name" : "",
-               "params" : {
-                  "choke" : true,
-                  "polyphony" : 2
-               }
-            }
-         ],
-         "customName" : "",
-         "effects" : [],
-         "envelopeAttack" : 40,
-         "envelopeEnable" : 0,
-         "envelopeHold" : 20,
-         "envelopeMode" : 1,
-         "envelopeRelease" : 40,
-         "mute" : false,
-         "name" : "Sequence Unit",
-         "output" : 0,
-         "pan" : 0.6034482717514038,
-         "params" : {
-            "bars" : 4,
-            "ids" : [ 561, 565, 574, 571, 582, 558, 576 ],
-            "offset" : 4,
-            "preserveClusters" : 1,
-            "preventDeath" : 0,
-            "probAdd" : 0,
-            "probChange" : 0,
-            "probPlay" : 0.6299999952316284,
-            "probRemove" : 0
-         },
-         "restrictToCluster" : -1,
-         "samplePitch" : 0,
-         "sampleReverse" : 0,
-         "sampleStart" : 0,
-         "solo" : false,
-         "volume" : -22.11039161682129
-      },
-      {
-         "behaviors" : [
-            {
-               "name" : "UnitBehaviorDragToPlay",
-               "params" : null
-            },
-            {
-               "name" : "UnitBehaviorOSC",
-               "params" : {
-                  "enabled" : false,
-                  "prefix" : ""
-               }
-            },
-            {
-               "name" : "",
-               "params" : {
-                  "choke" : true,
-                  "polyphony" : 2
-               }
-            }
-         ],
-         "customName" : "",
-         "effects" : [],
-         "envelopeAttack" : 40,
-         "envelopeEnable" : 0,
-         "envelopeHold" : 20,
-         "envelopeMode" : 1,
-         "envelopeRelease" : 40,
-         "mute" : false,
-         "name" : "Sequence Unit",
-         "output" : 0,
-         "pan" : 0.7068965435028076,
-         "params" : {
-            "bars" : 4,
-            "ids" : [ 728, 716, 693, 695, 701, 699, 709 ],
+            "ids" : [ 647, 620, 632, 569 ],
             "offset" : 1,
             "preserveClusters" : 1,
             "preventDeath" : 0,
@@ -517,7 +263,357 @@
          "sampleReverse" : 0,
          "sampleStart" : 0,
          "solo" : false,
-         "volume" : -30.67075347900391
+         "volume" : 4.801204681396484
+      },
+      {
+         "behaviors" : [
+            {
+               "name" : "UnitBehaviorDragToPlay",
+               "params" : null
+            },
+            {
+               "name" : "UnitBehaviorOSC",
+               "params" : {
+                  "enabled" : false,
+                  "prefix" : ""
+               }
+            },
+            {
+               "name" : "",
+               "params" : {
+                  "choke" : true,
+                  "polyphony" : 2
+               }
+            }
+         ],
+         "customName" : "",
+         "effects" : [],
+         "envelopeAttack" : 40,
+         "envelopeEnable" : 0,
+         "envelopeHold" : 20,
+         "envelopeMode" : 1,
+         "envelopeRelease" : 40,
+         "mute" : false,
+         "name" : "Sequence Unit",
+         "output" : 0,
+         "pan" : 0.4444444477558136,
+         "params" : {
+            "bars" : 3,
+            "ids" : [ 958, 976, 970, 917, 961, 947, 953, 962 ],
+            "offset" : 1,
+            "preserveClusters" : 1,
+            "preventDeath" : 0,
+            "probAdd" : 0,
+            "probChange" : 0,
+            "probPlay" : 0.6299999952316284,
+            "probRemove" : 0
+         },
+         "restrictToCluster" : -1,
+         "samplePitch" : 0,
+         "sampleReverse" : 0,
+         "sampleStart" : 0,
+         "solo" : false,
+         "volume" : -22.10000038146973
+      },
+      {
+         "behaviors" : [
+            {
+               "name" : "UnitBehaviorDragToPlay",
+               "params" : null
+            },
+            {
+               "name" : "UnitBehaviorOSC",
+               "params" : {
+                  "enabled" : true,
+                  "prefix" : ""
+               }
+            },
+            {
+               "name" : "",
+               "params" : {
+                  "choke" : true,
+                  "polyphony" : 2
+               }
+            }
+         ],
+         "customName" : "",
+         "effects" : [],
+         "envelopeAttack" : 40,
+         "envelopeEnable" : 0,
+         "envelopeHold" : 20,
+         "envelopeMode" : 1,
+         "envelopeRelease" : 40,
+         "mute" : false,
+         "name" : "Sequence Unit",
+         "output" : 0,
+         "pan" : 0.6666666865348816,
+         "params" : {
+            "bars" : 3,
+            "ids" : [ 1113, 1096, 1139, 1130, 1119, 1095, 1110, 1102 ],
+            "offset" : 1,
+            "preserveClusters" : 1,
+            "preventDeath" : 0,
+            "probAdd" : 0,
+            "probChange" : 0,
+            "probPlay" : 0.6600000262260437,
+            "probRemove" : 0
+         },
+         "restrictToCluster" : -1,
+         "samplePitch" : 0,
+         "sampleReverse" : 0,
+         "sampleStart" : 0,
+         "solo" : false,
+         "volume" : -14.71000003814697
+      },
+      {
+         "behaviors" : [
+            {
+               "name" : "UnitBehaviorDragToPlay",
+               "params" : null
+            },
+            {
+               "name" : "UnitBehaviorOSC",
+               "params" : {
+                  "enabled" : false,
+                  "prefix" : ""
+               }
+            },
+            {
+               "name" : "",
+               "params" : {
+                  "choke" : true,
+                  "polyphony" : 2
+               }
+            }
+         ],
+         "customName" : "",
+         "effects" : [],
+         "envelopeAttack" : 40,
+         "envelopeEnable" : 0,
+         "envelopeHold" : 20,
+         "envelopeMode" : 1,
+         "envelopeRelease" : 40,
+         "mute" : false,
+         "name" : "Sequence Unit",
+         "output" : 0,
+         "pan" : 0.8400000333786011,
+         "params" : {
+            "bars" : 2,
+            "ids" : [ 790, 814, 773, 777, 818, 764, 704 ],
+            "offset" : 1,
+            "preserveClusters" : 1,
+            "preventDeath" : 0,
+            "probAdd" : 0,
+            "probChange" : 0,
+            "probPlay" : 0.4399999976158142,
+            "probRemove" : 0
+         },
+         "restrictToCluster" : -1,
+         "samplePitch" : 0,
+         "sampleReverse" : 0,
+         "sampleStart" : 0,
+         "solo" : false,
+         "volume" : -20.15464210510254
+      },
+      {
+         "behaviors" : [
+            {
+               "name" : "UnitBehaviorDragToPlay",
+               "params" : null
+            },
+            {
+               "name" : "UnitBehaviorOSC",
+               "params" : {
+                  "enabled" : false,
+                  "prefix" : ""
+               }
+            },
+            {
+               "name" : "",
+               "params" : {
+                  "choke" : true,
+                  "polyphony" : 2
+               }
+            }
+         ],
+         "customName" : "",
+         "effects" : [],
+         "envelopeAttack" : 40,
+         "envelopeEnable" : 0,
+         "envelopeHold" : 20,
+         "envelopeMode" : 1,
+         "envelopeRelease" : 40,
+         "mute" : false,
+         "name" : "Sequence Unit",
+         "output" : 0,
+         "pan" : 0.1733333319425583,
+         "params" : {
+            "bars" : 2,
+            "ids" : [ 211, 247, 133, 794 ],
+            "offset" : 1,
+            "preserveClusters" : 1,
+            "preventDeath" : 0,
+            "probAdd" : 0,
+            "probChange" : 0,
+            "probPlay" : 0.6100000143051147,
+            "probRemove" : 0
+         },
+         "restrictToCluster" : -1,
+         "samplePitch" : 0,
+         "sampleReverse" : 0,
+         "sampleStart" : 0,
+         "solo" : false,
+         "volume" : -43.19079971313477
+      },
+      {
+         "behaviors" : [
+            {
+               "name" : "UnitBehaviorDragToPlay",
+               "params" : null
+            },
+            {
+               "name" : "UnitBehaviorOSC",
+               "params" : {
+                  "enabled" : false,
+                  "prefix" : ""
+               }
+            },
+            {
+               "name" : "",
+               "params" : {
+                  "choke" : true,
+                  "polyphony" : 2
+               }
+            }
+         ],
+         "customName" : "",
+         "effects" : [],
+         "envelopeAttack" : 40,
+         "envelopeEnable" : 0,
+         "envelopeHold" : 20,
+         "envelopeMode" : 1,
+         "envelopeRelease" : 40,
+         "mute" : false,
+         "name" : "Sequence Unit",
+         "output" : 0,
+         "pan" : 0,
+         "params" : {
+            "bars" : 2,
+            "ids" : [ 994, 902, 901, 609, 520, 898, 531, 600, 674 ],
+            "offset" : 0,
+            "preserveClusters" : 1,
+            "preventDeath" : 0,
+            "probAdd" : 0,
+            "probChange" : 0,
+            "probPlay" : 1,
+            "probRemove" : 0
+         },
+         "restrictToCluster" : -1,
+         "samplePitch" : 0,
+         "sampleReverse" : 0,
+         "sampleStart" : 0,
+         "solo" : false,
+         "volume" : -23.34000015258789
+      },
+      {
+         "behaviors" : [
+            {
+               "name" : "UnitBehaviorDragToPlay",
+               "params" : null
+            },
+            {
+               "name" : "UnitBehaviorOSC",
+               "params" : {
+                  "enabled" : false,
+                  "prefix" : ""
+               }
+            },
+            {
+               "name" : "",
+               "params" : {
+                  "choke" : true,
+                  "polyphony" : 2
+               }
+            }
+         ],
+         "customName" : "",
+         "effects" : [],
+         "envelopeAttack" : 40,
+         "envelopeEnable" : 0,
+         "envelopeHold" : 20,
+         "envelopeMode" : 1,
+         "envelopeRelease" : 40,
+         "mute" : false,
+         "name" : "Sequence Unit",
+         "output" : 0,
+         "pan" : 0.6034482717514038,
+         "params" : {
+            "bars" : 1,
+            "ids" : [ 433, 288, 475, 440, 348, 460 ],
+            "offset" : 4,
+            "preserveClusters" : 1,
+            "preventDeath" : 0,
+            "probAdd" : 0,
+            "probChange" : 0,
+            "probPlay" : 0.6299999952316284,
+            "probRemove" : 0
+         },
+         "restrictToCluster" : -1,
+         "samplePitch" : 0,
+         "sampleReverse" : 0,
+         "sampleStart" : 0,
+         "solo" : false,
+         "volume" : -4.849999904632568
+      },
+      {
+         "behaviors" : [
+            {
+               "name" : "UnitBehaviorDragToPlay",
+               "params" : null
+            },
+            {
+               "name" : "UnitBehaviorOSC",
+               "params" : {
+                  "enabled" : false,
+                  "prefix" : ""
+               }
+            },
+            {
+               "name" : "",
+               "params" : {
+                  "choke" : true,
+                  "polyphony" : 2
+               }
+            }
+         ],
+         "customName" : "",
+         "effects" : [],
+         "envelopeAttack" : 40,
+         "envelopeEnable" : 0,
+         "envelopeHold" : 20,
+         "envelopeMode" : 1,
+         "envelopeRelease" : 40,
+         "mute" : false,
+         "name" : "Sequence Unit",
+         "output" : 0,
+         "pan" : 0.7888889312744141,
+         "params" : {
+            "bars" : 2,
+            "ids" : [ 524, 493, 965, 362, 593 ],
+            "offset" : 0,
+            "preserveClusters" : 1,
+            "preventDeath" : 0,
+            "probAdd" : 0,
+            "probChange" : 0,
+            "probPlay" : 0.75,
+            "probRemove" : 0
+         },
+         "restrictToCluster" : -1,
+         "samplePitch" : 0,
+         "sampleReverse" : 0,
+         "sampleStart" : 0,
+         "solo" : false,
+         "volume" : -43.19079971313477
       },
       {
          "behaviors" : [
@@ -553,7 +649,7 @@
          "pan" : 0.6034482717514038,
          "params" : {
             "bars" : 2,
-            "ids" : [ 706, 622, 528, 904, 534, 905, 1003, 683, 679 ],
+            "ids" : [ 1013, 133, 123 ],
             "offset" : 1,
             "preserveClusters" : 1,
             "preventDeath" : 0,
@@ -567,7 +663,7 @@
          "sampleReverse" : 0,
          "sampleStart" : 0,
          "solo" : false,
-         "volume" : -41.81193161010742
+         "volume" : -11.82999992370605
       },
       {
          "behaviors" : [
@@ -602,14 +698,14 @@
          "output" : 0,
          "pan" : 0,
          "params" : {
-            "bars" : 3,
-            "ids" : [ 356, 1162, 1157, 1088, 1081, 896, 264, 341, 285 ],
+            "bars" : 2,
+            "ids" : [ 356, 1169, 1157, 1088, 1081, 896, 264, 341, 285 ],
             "offset" : 0,
             "preserveClusters" : 1,
             "preventDeath" : 0,
             "probAdd" : 0,
             "probChange" : 0,
-            "probPlay" : 0.6499999761581421,
+            "probPlay" : 0.6899999976158142,
             "probRemove" : 0
          },
          "restrictToCluster" : -1,
@@ -617,7 +713,7 @@
          "sampleReverse" : 0,
          "sampleStart" : 0,
          "solo" : false,
-         "volume" : -29.07032585144043
+         "volume" : -8.130000114440918
       },
       {
          "behaviors" : [
@@ -650,16 +746,16 @@
          "mute" : false,
          "name" : "Sequence Unit",
          "output" : 0,
-         "pan" : 0,
+         "pan" : 0.7777777910232544,
          "params" : {
-            "bars" : 3,
+            "bars" : 2,
             "ids" : [ 378, 756, 738, 753, 470, 485, 481 ],
-            "offset" : 0,
+            "offset" : 1,
             "preserveClusters" : 1,
             "preventDeath" : 0,
             "probAdd" : 0,
             "probChange" : 0,
-            "probPlay" : 0.7599999904632568,
+            "probPlay" : 0.6000000238418579,
             "probRemove" : 0
          },
          "restrictToCluster" : -1,
@@ -667,7 +763,57 @@
          "sampleReverse" : 0,
          "sampleStart" : 0,
          "solo" : false,
-         "volume" : -21.14957237243652
+         "volume" : -43.19079971313477
+      },
+      {
+         "behaviors" : [
+            {
+               "name" : "UnitBehaviorDragToPlay",
+               "params" : null
+            },
+            {
+               "name" : "UnitBehaviorOSC",
+               "params" : {
+                  "enabled" : false,
+                  "prefix" : ""
+               }
+            },
+            {
+               "name" : "",
+               "params" : {
+                  "choke" : true,
+                  "polyphony" : 2
+               }
+            }
+         ],
+         "customName" : "",
+         "effects" : [],
+         "envelopeAttack" : 40,
+         "envelopeEnable" : 0,
+         "envelopeHold" : 20,
+         "envelopeMode" : 1,
+         "envelopeRelease" : 40,
+         "mute" : false,
+         "name" : "Sequence Unit",
+         "output" : 0,
+         "pan" : 0.6666666865348816,
+         "params" : {
+            "bars" : 2,
+            "ids" : [ 427, 1026, 1011, 894, 1061 ],
+            "offset" : 0,
+            "preserveClusters" : 1,
+            "preventDeath" : 0,
+            "probAdd" : 0,
+            "probChange" : 0,
+            "probPlay" : 0.4600000083446503,
+            "probRemove" : 0
+         },
+         "restrictToCluster" : -1,
+         "samplePitch" : 0,
+         "sampleReverse" : 0,
+         "sampleStart" : 0,
+         "solo" : false,
+         "volume" : -43.19079971313477
       }
    ]
 }
