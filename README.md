@@ -1,6 +1,6 @@
 # CART398Final
 
-Academic Paper
+AudioStellar
 https://thegardenofcuriosity.untref.edu.ar/img/10_audiostellar/AudioStellar_for_ICMC2020.pdf
 
 AudioStellar OSC
